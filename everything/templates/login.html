@@ -8,7 +8,7 @@
         <!-- External CSS -->
         <!-- <link rel="stylesheet" href="static/css/login.css"> -->
         <link rel = "stylesheet" type = "text/css" href = "{{url_for('static', filename = 'css/login.css')}}">
-    
+
     </head>
 
 <body>
@@ -17,33 +17,42 @@
     <!-- FORM SECTION -->
     <div class="row">
         <!-- SIGN UP -->
-        
+<!--        <form class="form-signin">-->
+<!--        <label for="inputName" class="sr-only">Name</label>-->
+<!--        <input type="name" name="inputName" id="inputName" class="form-control" placeholder="Name" required autofocus>-->
+<!--        <label for="inputEmail" class="sr-only">Email address</label>-->
+<!--        <input type="email" name="inputEmail" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>-->
+<!--        <label for="inputPassword" class="sr-only">Password</label>-->
+<!--        <input type="password" name="inputPassword" id="inputPassword" class="form-control" placeholder="Password" required>-->
+<!--        <input type = "submit" value = "Signup"></input>-->
         <div class="col align-items-center flex-col sign-up">
+            <form action ="signup" method = "POST">
             <div class="form-wrapper align-items-center">
-                <form action ="http://127.0.0.1:5000/signup" method = "POST"></form>
                 <div class="form sign-up">
                     <div class="input-group">
                         <i class='bx bxs-user'></i>
-                        <input type="text" placeholder="Username" id = "Username">
+                        <input type="text" name="inputName" id="inputName" class="form-control" placeholder="Name" autofocus="">
                     </div>
                     <div class="input-group">
                         <i class='bx bx-mail-send'></i>
-                        <input type="email" placeholder="Email">
+                        <input type="email" name = "email" placeholder="Email" data-error="Invalid Email Address" required>
                     </div>
                     <div class="input-group">
                         <i class='bx bxs-lock-alt'></i>
-                        <input type="password" placeholder="Password">
+                        <input type="password" name = "password" placeholder="Password">
                     </div>
                     <div class="input-group">
                         <i class='bx bxs-lock-alt'></i>
                         <input type="password" placeholder="Confirm password">
                     </div>
 
-                    
 
-                    <!-- <button type="submit" onclick="window.location='signup';"> -->
-                        <input type = "submit" value = "Sign up" onclick = "window.location='signup';"></input>
-                    <!-- </button> -->
+
+
+                     <button type="submit" onclick="window.location='signup';">Sign Up
+<!--                    <input type = "submit" value = "Sign up" onclick = "window.location='signup';">-->
+<!--                    <button id="btnSignUp" class="btn btn-lg btn-primary btn-block" type="button" >Sign up</button>-->
+                     </button>
 
                     <p>
                         <span>
@@ -53,12 +62,16 @@
                             Sign in here
                         </b>
                     </p>
+
                 </div>
-            </form>
+
+
             </div>
-        
+                            </form>
+
+
         </div>
-       
+
         <!-- END SIGN UP -->
         <!-- SIGN IN -->
         <div class="col align-items-center flex-col sign-in">
@@ -93,7 +106,7 @@
                 </div>
             </div>
             <div class="form-wrapper">
-    
+
             </div>
         </div>
         <!-- END SIGN IN -->
@@ -110,14 +123,14 @@
 
             </div>
             <div class="img sign-in">
-    
+
             </div>
         </div>
         <!-- END SIGN IN CONTENT -->
         <!-- SIGN UP CONTENT -->
         <div class="col align-items-center flex-col">
             <div class="img sign-up">
-            
+
             </div>
             <div class="text sign-up">
                 <h2>
