@@ -39,12 +39,6 @@ From our research, it has been clear that users reviews include bug reports, fea
   •Bert-Extractive-Summarizer (Generates summary)
 
   •Specter (Generates Embeddings)
-
-## Technologies Used :
-
-  • HTML5 •CSS3 •Python 
-  • Flask •JS •JupyterNotebook
-  •PowerShell
   
 ## API's used :
 
