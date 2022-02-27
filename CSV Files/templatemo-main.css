@@ -1,11 +1,3 @@
-/*
-
-Vanilla Template
-
-https://templatemo.com/tm-526-vanilla
-
-*/
-
 p {
   font-size: 15px;
   line-height: 25px;
@@ -166,6 +158,32 @@ h1
   margin-bottom: 0px;
 }
 
+.trial p
+{
+  margin-top: 0px;
+  font-size: 26px;
+  color: white;
+  font-weight: 90;
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 160px;
+  text-align: center;
+  line-height: normal;
+}
+
+.trial1 p
+{
+  margin-top: 0px;
+  font-size: 26px;
+  color: white;
+  font-weight: 90;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+  line-height: normal;
+}
+
 .baner-content h1 {
   margin-top: 0px;
   font-size: 128px;
@@ -180,6 +198,8 @@ h1
   font-weight: 600;
   font-style: normal;
 }
+
+
 
 .baner-content span {
   display: inline-block;
@@ -210,7 +230,9 @@ h1
   font-size: 24px;
   font-weight: 500;
   color: #fff;
+  
 }
+
 
 h4, .h4 {
   font-size: 24px;
@@ -333,11 +355,14 @@ h4, .h4 {
   min-height: 100vh;
   background-size: cover;
   background-position: center center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section {
   background-color: transparent;
   padding-bottom: 15px;
+  
 }
 
 .wrapper {
@@ -571,6 +596,9 @@ footer em {
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 }
 
@@ -824,7 +852,9 @@ p{
   color: rgb(62,148,236);
 }
 .st_viewport{
-  max-height: 800px;
+  max-height: 490px;
+  margin-left: 1000px;
+  margin-right: 1000px;
   overflow:auto;
 }
 
@@ -870,6 +900,9 @@ pre{
 }
 /* ###  Table wrap */
 .st_wrap_table{
+
+  margin-left: auto;
+  margin-right: auto;
   
 }
 /* ##   header */
@@ -888,6 +921,8 @@ pre{
 }
 .st_table_header .st_row{
   color: rgba(220,220,220, .7);
+  margin-left: auto;
+  margin-right: auto;
 }
 .st_table_header .st_column{
   
@@ -941,7 +976,7 @@ pre{
   font-family: 'Open Sans', sans-serif;
    font-weight: 300;
    line-height: 1.42em;
-   color:#A7A1AE;
+   color:whitesmoke;
    background-color:#1F2739;
 }
 
@@ -960,7 +995,7 @@ pre{
      font-weight: bold;
      font-size: 1em;
    text-align: left;
-   color: #185875;
+   color: orange;
  }
  
  .container1 td {
@@ -1000,7 +1035,7 @@ pre{
      background-color: #1F2739;
  }
  
- .container1 td:first-child { color: #FB667A; }
+ .container1 td:first-child { color: whitesmoke ; }
  
  .container1 tr:hover {
     background-color: #464A52;
@@ -1010,7 +1045,7 @@ pre{
  }
  
  .container1 td:hover {
-   background-color: #FFF842;
+   background-color: orange;
    color: #403E10;
    font-weight: bold;
    
@@ -1027,3 +1062,9 @@ pre{
  .container1 td:nth-child(4),
  .container1 th:nth-child(4) { display: none; }
  }
+
+
+
+
+
+
