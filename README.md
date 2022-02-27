@@ -11,18 +11,17 @@
 
 ## What is Appanalytics ?
 
-Applytics is an open source web application bridging the gap betweeen User and Developers. Applytics is responsible for automatically matching Patch notes with the Bug reports reported by the Users. Often User's find it difficult to solve an issue and at times their issues remain unsolved. Developers on the otherhand spend approximately about 42% of their time trying to solve bugs. Our goal is to notify the developers of the issues that are important but unsolved. Furthermore, we wish to apply this app as a tool to the pre-existing software Jira which is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management. 
+Applytics is an open-source web application bridging the gap between Users and Developers. Applytics is responsible for automatically matching Patch notes with the Bug reports reported by the Users. Often User finds it difficult to solve an issue and at times their issues remain unsolved. Developers on the other hand spend approximately about 42% of their time trying to solve bugs. Our goal is to notify the developers of the issues that are important but unsolved. Furthermore, we wish to apply this app as a tool to the pre-existing software Jira which is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
 
 ## Challenges we ran into:
-We ran into multiple challenges along the development phase and were dealt with accordingly. With respect to Front-End we had challenges with aligning of placeholders that were used to display the results from our Machine Learning model. With respect to Back-End we ran into time bounded challenges as Machine learning model takes a considerable amount of time to create the tensor file of our embeddings. Employing a Machine Learning model also posed as challenges as the packages to be downloaded were conflicting with existing packages, resolving dependies also required a lot of time dedication. Our API choice was another thing we struggled with as we wanted to ensure we were using the best and more reliable technologies with respect to development and debugging.
+We ran into multiple challenges along with the development phase and were dealt with accordingly. For Front-End we had challenges with aligning placeholders that were used to display the results from our Machine Learning model. For Back-End we ran into time-bounded challenges as the Machine learning model takes a considerable amount of time to create the tensor file of our embeddings. Employing a Machine Learning model also posed challenges as the packages to be downloaded were conflicting with existing packages, resolving dependencies also required a lot of time dedication. Our API choice was another thing we struggled with as we wanted to ensure we were using the best and more reliable technologies for development and debugging.
 
 ## What we learnt:
 
 Hackathons are a great way to meet new people, network with industry professionals, learn new things, flex your problem-solving muscles, and maybe even win some great prizes.
-VTHacks IX presented us with the opportunity to work on a real-life problem that is highly complex in nature yet often overlooked in the Software Developement Community.
+VTHacks IX presented us with the opportunity to work on a real-life problem that is highly complex yet often overlooked in the Software Development Community.
 Several Apps on App Stores, such as Google Play or the Apple Store, allow users to provide constructive or positive feedback on apps by posting their personalized reviews.
-From our research it has been clear that users reviews includes bug reports, feature requests, that can assist app developers to accomplish software maintenance and evolution tasks. According to several statistics it has been proven that several important bugs and technical issues with the advancing technology are often not noticed by the developers.
-This is when we decided to create a web application which helps solve this cause.
+From our research, it has been clear that users reviews include bug reports, feature requests, that can assist app developers to accomplish software maintenance and evolution tasks. According to several statistics, it has been proven that several important bugs and technical issues with the advancing technology are often not noticed by the developers. This is when we decided to create a web application that helps solve this cause.
 
 
 ## Technologies Used
@@ -54,11 +53,11 @@ This is when we decided to create a web application which helps solve this cause
   • App Annie
   
 ## ML model integration
-- The reviews gathered from the Google-Scrapper API was clustered into groups of major bugs detected. This was done using LDA Topic Modelling.
+- The reviews gathered from the Google-Scrapper API were clustered into groups of major bugs detected. This was done using LDA Topic Modelling.
 - These Major Bugs are mapped to reviews using SPECTRE.
 - SPECTRE model in Appanalytics is built using allenai-specter model with SentenceTransformers.
-- Patch Notes and Negative Reviews are generated using the App Annie API and then passing these notes to the Spectre model to create embeddings.
-- Proceeding to perform Cosine-Similarity to map patches to reviews and displaying results on Flask.
+- Patch Notes and Negative Reviews are generated using the App Annie API and then passed these notes to the Spectre model to create embeddings.
+- Proceeding to perform Cosine-Similarity to map patches to reviews and display results on Flask.
   
 ## Prequisites to run the ML Model
 ```
