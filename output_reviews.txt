@@ -1,0 +1,58 @@
+def res():
+    result,continuation_token= reviews('com.Slack',lang='en',country='us',sort=Sort.MOST_RELEVANT, count=1000)
+    df = pd.read_csv ('app_reviews_slack.csv')
+
+    count_1,count_2,count_3,count_4 = 0,0,0,0
+
+    idx1,idx2,idx3,idx4 = 0,0,0,0
+
+    reg_dict = {}
+    int_dict = {}
+    app_dict = {}
+    not_dict = {}
+
+
+    for i in df['RegistrationIssues']:
+        if i>0.7:
+            my_formatter = "{0:.2f}"
+            reg_dict[df['processed_review'][count_1]] = str(my_formatter.format(i*100))+"%"
+            idx1+=1
+        count_1+=1
+        if idx1 ==8:
+            break
+    # count_2 = 0
+    for i in df['Notification Issues']:
+        if i>0.7:
+            my_formatter = "{0:.2f}"
+            not_dict[df['processed_review'][count_2]] = str(my_formatter.format(i*100))+"%"
+            idx2+=1
+        count_2+=1
+        if idx2 == 8:
+            break
+
+    # count_3 = 0
+    for i in df['Slack Desktop/Mobile App Issues']:
+        if i>0.7:
+            
+            my_formatter = "{0:.2f}"
+            app_dict[df['processed_review'][count_3]] = str(my_formatter.format(i*100))+"%"
+            idx3+=1
+        count_3+=1
+        if idx3 == 8:
+            break
+
+    # count_4 = 0
+    for i in df['Interface Issues']:
+        if i>0.6:
+            my_formatter = "{0:.2f}"
+            int_dict[df['processed_review'][count_4]] = str(my_formatter.format(i*100))+"%"
+            print(int_dict[df['processed_review'][count_4]])
+            idx4+=1
+        count_4+=1
+        if idx4 == 8:
+            break
+
+
+
+
+    return render_template('resultDeveloper.html',reg_dict=reg_dict,int_dict=int_dict,not_dict=not_dict,app_dict=app_dict)
