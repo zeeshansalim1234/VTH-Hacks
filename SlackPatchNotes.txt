@@ -1,0 +1,1159 @@
+Version 22.02.10.0 (Feb 13, 2022)
+Bug Fixes
+• Fixed: When attempting to edit your profile, the keyboard was obscuring the text entry field, with no way to scroll down and see your edits. We’d like to say that this is the sort of challenge that ultimately builds character, but instead we’ll say it was a bug which ultimately was just a pain.
+Version 22.01.30.0 (Jan 30, 2022)
+What’s New
+• Prefer for tappable URLs to be underlined? We’ve added a new Accessibility option to the Preferences menu to increase visibility for those words that are, in fact, links.
+Bug Fixes
+• Long-pressing on a URL would bring up a menu with several prompts, none of which would actually do anything. We’d call it a false dilemma, but that would imply that any of the choices you were given were real options.
+Version 22.01.20.0-externalflavor (Jan 17, 2022)
+Bug Fixes
+• Fixed: If you opened the DMs tab and repeatedly scrolled up and down, you may have noticed that the preview text would slowly be replaced by multiple copies of the word “You.” It would seem our “New Year, New You” initiative had gotten a bit out of hand.
+Version 22.01.11.0-externalflavor (Jan 6, 2022)
+Bug Fixes
+• We tweaked some things too small to notice or too difficult to explain. We’ll return you to your regular, more interesting types of release next time (we hope).
+Version 22.01.10.0-externalflavor (Jan 2, 2022)
+Bug Fixes
+• Fixed: If you manually marked a message as unread, you may have found the app took your instructions to heart with such conviction and intensity that the message could then never be marked as read. Time softens our most rigid postures (a code change doesn’t hurt either), so you should find message read states are now more appropriately fluid.
+Version 21.12.10.0 (Dec 5, 2021)
+What’s New
+• No news is good news! Well, some news can also be good news, or no news could perhaps lead to uncertainty and speculation on par with bad news, but in this case our absence of news is a good thing. Or at least not a bad thing. No news is just fine. Carry on.
+Version 21.11.20.0 (Nov 15, 2021)
+What’s New
+• The channel list just got easier to command! Tap and hold on any channel or DM in the Home tab to mark a conversation as read, mute notifications, copy the channel name or leave it entirely. All this with the press of a finger.
+Version 21.11.10.0 (Oct 31, 2021)
+Bug Fixes
+• If you’re someone who sets their screen zoom and font size to the maximum values, you may have noticed that the text editing field was getting pushed offscreen. We want there to be room for everyone in the app, so you should find the editor now remains in view no matter how much you “enhance” the image. 🔬
+Version 21.10.20.0 (Oct 17, 2021)
+What’s New
+• New emoji reactions will now appear immediately while in the All Threads view, because it’s exhausting switching back and forth just to see if people laughed at your Squid Game jokes.
+• If you’re using Slack Connect to share a private channel with another organization, we’ll make sure it stays private on the receiving end. That is, there is no option when accepting a private shared channel to make it public. More peace of mind for you, more security for all.
+Version 21.10.10.0 (Oct 3, 2021)
+What’s New
+• You can now record video and audio clips right within Slack. Add some face time to your team updates, talk through feedback, or just say hello. Want to sing your portion of the stand-up? Best check with your manager on that one.
+• The channel list just got a little friendlier. You’ll now see avatars next to your Direct Messages, and for those group conversations with lots of names, we’ve given you a bit more space to see just who it is you’re talking to.
+Version 21.09.20.0 (Sep 20, 2021)
+What’s New
+• Minor improvements have been made, and bug fixes taken place, but they’re the kind that are out of sight, behind closed doors, and quietly just doing their job, deep in the inner workings of the app, making things just a little bit better.
+Version 21.09.10.0 (Sep 6, 2021)
+Bug Fixes
+• Fixed: Tapping the search option on the Android keyboard while an active search was already underway created a feedback loop of meta-searches, eventually concluding in a crash. Turns out the app didn’t like being faced with the existential crisis of having a search within a search. A question within a question. A void within a void. Where were we?
+Version 2021.08.23 (Aug 22, 2021)
+What’s New
+• This will be the last version of Slack that supports Android 6 and 7. In addition, starting on September 1st, you’ll need to be running Android 8 or later in order to connect to Slack. We know this is potentially frustrating news, but these minimum requirements are necessary in order to ensure Slack remains as secure and seamless as we built it to be. Thank you for your understanding.
+Version 2021.08.09 (Aug 8, 2021)
+What’s New
+• We’ve made it much quicker to join Slack from a Shared Connect invite, because never does time move as slowly as when you are filling out forms in the shadow of the place you really want to be. Come on in; the channel’s fine.
+Bug Fixes
+• Fixed: You can now set a reminder for a “custom” time of your choosing. You always should have been able to, but our system got a little restrictive there for a minute. Want that “Make a wish” message to remind you at 11:11? The app is your oyster.
+Version 2021.07.26 (Jul 25, 2021)
+Bug Fixes
+• Fixed: Custom skin tones were not being respected in reacji, giving you the generic yellow version instead. Going forward, the emoji you choose will now be the emoji that's shared.
+• Fixed: If you start a new message with a ‘>’ symbol, the message will be formatted as a block quote, just like it would be on our other platforms. You can (block) quote us on that.
+Version 2021.07.12 (Jul 11, 2021)
+Bug Fixes
+• Fixed: Links were not opening when Slack’s preferences were set to hand off to an external browser app, instead providing a vague and unsatisfying error message. This has been fixed, and the only thing vague and unsatisfying now is the ending to that screenplay we’ve been working on.
+Version 2021.06.28 (Jun 27, 2021)
+Bug Fixes
+• Fixed: Links were not opening when Slack’s preferences were set to hand off to an external browser app, instead providing a vague and unsatisfying error message. This has been fixed, and the only thing vague and unsatisfying now is the ending to that screenplay we’ve been working on.
+Version 2021.06.14 (Jun 13, 2021)
+Bug Fixes
+• Fixed: If you had your settings such that images would not be automatically expanded, our “tap to expand this image” prompt would get mixed up with any text previews generated from a posted URL, leading to similar amounts of confusion as experienced when describing this bug.
+• Fixed: If a direct message from a bot contained buttons, and you tapped the message to view its details, the buttons would no longer work. Broken buttons beget bitterness, but better buttons bring bliss.
+Version 2021.06.01 (May 31, 2021)
+What’s New
+• Did you know you can tap and hold on an emoji reaction to see who reacted to the message? Well if you didn’t, now you do. And if you already knew about that, go ahead and give it another go. We’ve made it dramatically easier to see who’s reacted to what. How dramatically? Eight years of theater school and a summer production of Hamlet.
+Version 2021.05.17 (May 16, 2021)
+Bug Fixes
+• Fixed: Long-pressing on the app icon to jump to a recent DM now actually takes you to that DM. We thought it would be better if our buttons actually did the thing we told you they would do.
+Version 2021.05.03 (May 2, 2021)
+What’s New
+• If you’re well versed in Simplified or Traditional Chinese — or aspire to be one day — you can now use Slack in those languages. Set your language preferences in You > Preferences > Language & region.
+Version 2021.04.19 (Apr 18, 2021)
+What’s New
+• An emoji is worth a thousand words, and now you’ll be able to access them more easily: both the picker and search are now in the bottom sheet, and you’ll see more of them at a glance.
+Bug Fixes
+• Fixed: A pesky bug that used to show an incorrect number of reactions in the Mentions & Reactions tab (or worse yet, didn’t show the reaction at all) has been dutifully squashed. Or collected and gently put outside. Either way, it’s gone.
+Version 2021.04.05 (Apr 4, 2021)
+Bug Fixes
+• Fixed: Marking a reminder as complete should give you a deep and profound sense of satisfaction, not an error message. Those errors are gone now, so you can keep blazing through your to-do list.
+• Fixed: While you were crafting the perfect message, the slightest tap outside the keyboard would take you to a different place entirely. Now, we keep you where you are until you’re ready to leave.
+Version 2021.03.22 (Mar 21, 2021)
+Bug Fixes
+• Fixed: Group DMs were difficult to distinguish because the app would truncate the list of participants. Now it’s easier to see names when composing a message or looking in the quick switcher. You’ll know the names of everyone at the party before you walk into the room.
+Version 2021.03.09 (Mar 8, 2021)
+What’s New
+• Fans of the workspace switcher, take note: First of all, we are flattered you consider yourself a fan of the workspace switcher. Chuffed, even. Second, we’re giving it a refresh, so you can better distinguish your workspaces and switch between them more easily.
+• For some, search is the heart of Slack. Now, it’s also the feet, because search is moving to its own tab at the bottom of the app.
+Version 2021.02.23 (Feb 22, 2021)
+Bug Fixes
+• Fixed: Tapping a profile picture or username in a thread used to do nothing. We weren’t ignoring you; we’re just really into this show at the moment. Tapping a profile picture or username now opens that person’s profile.
+Version 2021.02.08 (Feb 7, 2021)
+Bug Fixes
+• Fixed: An obscure, odd, out-of-left-field crash. If you’ve ever tried editing your profile while also rotating your phone, you may have seen this crash. Now, you won’t.
+Version 2021.01.25 (Jan 24, 2021)
+Bug Fixes
+• We tuned up the engine and gave the interiors a thorough clean. Everything is now running smoothly again.
+Version 2021.01.21 (Jan 20, 2021)
+Bug Fixes
+• We tuned up the engine and gave the interiors a thorough clean. Everything is now running smoothly again.
+Version 2021.01.11 (Jan 10, 2021)
+What’s New
+• Previously, the keyboard would appear and disappear in a way that felt inelegant — or even choppy. We’re happy to report that the appearance and disappearance of keyboards has been smoothed out for Android 11 and newer.
+Version 2020.12.14 (Dec 13, 2020)
+What’s New
+• Noble adventurer, your “slash command” skill has been upgraded. You now have access to the /expand and /collapse commands, and the power to expand or collapse inline images and video courses through your veins.
+Bug Fixes
+• Fixed: On phones with a “notch” (you’ll know it if you’ve got it), some content was hidden beneath the notch when viewing images full screen. Slack is now aware of — and respects — the notch.
+Version 2020.11.30 (Nov 29, 2020)
+What’s New
+• Fixed: Adding a new line to a block quote or code block used to make Slack crash. That was then. Now, we won’t be blocking you from building your blocks however you’d like.
+Version 2020.11.09 (Nov 8, 2020)
+What’s New
+• We do these releases every week to keep on top of performance… but sometimes there's nothing specific to tell you. So let's talk about some things we should have been better about telling you about in the first place. Like, did you know that you can long press on a message on mobile to set it to "unread", so it's there waiting for you when you get to your desk? Or set a reminder to look at it later? Oh, you did? Never mind, then. Carry on.
+Version 2020.10.26 (Oct 25, 2020)
+What’s New
+• Slack is now available in Korean, which means you can finally DM your favorite BTS member! That was a joke, please do not do that.
+Bug Fixes
+• Time may be a construct, but you shouldn’t have to do math to know what hour it is. Now, we match your device's preferences when we display times. If you use a 24-hour clock, you’ll see it reflected when you set a custom status that expires or when you snooze a notification.
+Version 2020.10.19 (Oct 18, 2020)
+What’s New
+• Maybe you’ve heard of Slack Connect, which reduces countless back-and-forth emails by letting you add partners, clients or vendors to a channel. Now, if your organization allows it, you can add another company to a new channel straightaway in the mobile app.
+Version 2020.09.28 (Sep 27, 2020)
+What’s New
+• Bugs were squished, performance was improved, work was done, and the result was good. Please enjoy Slack responsibly.
+Version 2020.09.14 (Sep 13, 2020)
+What’s New
+• Sometimes, we make improvements that are important, but invisible. This is one of those times. You shouldn’t notice anything different, and that’s the idea — Slack should just keep working like you expect it to.
+Version 2020.08.31 (Aug 30, 2020)
+What’s New
+• Sometimes we release a new version of our app with improvements and bug fixes so intricate and unseen they can’t be conveyed by a collection of words. So instead of something new, and speaking of collections of words… have you tried keyword notifications — a nifty way to stay tuned in to topics you care about? Set or see your keywords by tapping You > Settings > My keywords. They’re very good.
+Version 2020.08.14 (Aug 13, 2020)
+What’s New
+• New: For something you’ve read but need to come back to later, you can now mark a thread as unread. Long-press on the message you’d like to start from, and then select the option to mark unread from the menu. Yes, you’ve been able to do it with channel messages for a long time, but now, you can do it in threads too. Useful!
+Version 2020.08.03 (Aug 2, 2020)
+Bug Fixes
+• Fixed: A few people noticed that you could select “Also send to channel” by tapping the blank space next to the checkbox in a threaded reply. We’ve tightened up that space so your replies only appear outside the thread when you want them to.
+Version 2020.07.20 (Jul 19, 2020)
+What’s New
+• You can now customize your notification preferences on a per-day basis, which is a fancy way of saying that you can now pause interruptions with Do Not Disturb down to the day. (Looking for a feature to pause interruptions from pets, kids, or package deliveries? We feel you.)
+Version 2020.07.09 (Jul 8, 2020)
+What’s New
+• You can now customize your notification preferences on a per-day basis, which is a fancy way of saying that you can now pause interruptions with Do Not Disturb down to the day. (Looking for a feature to pause interruptions from pets, kids, or package deliveries? We feel you.)
+Version 20.06.20.0 (Jun 23, 2020)
+What’s New
+• This is the last version of Slack that will work on Android 5.0. To get updates in the future, you’ll need to update your device to Android 6.0 (or newer).
+Bug Fixes
+• Fixed: If you drafted a reply to a thread, and then that thread was deleted, you were unable to open the draft you’d drafted. This was bad, but now it’s better: you can open, copy, and delete those drafts.
+Version 20.06.10.0 (Jun 10, 2020)
+Bug Fixes
+• Fixed: When viewing the channel list, the ‘+’ buttons that let you browse channels or start a new direct message sometimes, well, didn’t. Now they do, every time.
+Version 20.05.21.0 (Jun 2, 2020)
+Bug Fixes
+• We’ve tinkered with the internal workings and polished some rough edges. The app is now better than it was.
+Version 20.05.20.0 (May 31, 2020)
+Beta testers, like you, are the best. As ever, thank you, and let us know if you find anything askew. Actual release notes coming soon!
+Version 20.05.10.0. (May 12, 2020)
+TL;DR: We’ve redesigned the layout of the app. Read more about the improvements on our blog at SlackHQ.com or in our help center. Here though, we’ll stick to what’s new, and what has been fixed.
+Version 20.04.20.0. (Apr 28, 2020)
+Bug Fixes
+• Fixed: On some devices, the text input area sometimes wouldn’t be visible after changing channels. It hadn’t disappeared, it had just scrolled off the bottom of the screen. Cheeky. It is now once again possible to send messages without playing hide and seek with the message box.
+Version 20.04.10.0 (Apr 14, 2020)
+Bug Fixes
+• Fixed: Some users who are required to use a passcode when accessing Slack were experiencing a crash when entering that passcode. Entering the passcode will now cause you to experience the app. Which, we hope, is better.
+Version 20.03.30.0 (Mar 31, 2020)
+What’s New
+• Minor improvements have been made, and bug fixes taken place, but they’re the kind that are out of sight, behind closed doors, and quietly just doing their job, deep in the inner workings of the app, making things just a little bit better.
+Version 20.03.20.0 (Mar 23, 2020)
+What’s New
+• While you might not be able to see anything changed, we’ve been hard at work keeping things ticking over. It’s all going great.
+Version 2020.03.17 (Mar 16, 2020)
+What’s New
+• While you might not be able to see anything changed, we’ve been hard at work keeping things ticking over. It’s all going great.
+Version 2020.03.16 (Mar 15, 2020)
+What’s New
+• What’s new? Nothing and everything. Or rather, it’s an update that makes things better, but is all invisible to the human eye or not something you could, as a user, put your finger on. Literally. So, in other words: “Bug fixes and Minor Improvements”.
+Version 2020.03.04 (Mar 3, 2020)
+What’s New
+• What’s new? Nothing and everything. Or rather, it’s an update that makes things better, but is all invisible to the human eye or not something you could, as a user, put your finger on. Literally. So, in other words: “Bug fixes and Minor Improvements”.
+Version 2020.03.02 (Mar 1, 2020)
+What’s New
+• The Android app has been looking after itself to bring in the new year, and as a result, it’s now a smaller download, with faster performance to boot.
+Version 2020.02.20 (Feb 19, 2020)
+What’s New
+• The Android app has been looking after itself to bring in the new year, and as a result, it’s now a smaller download, with faster performance to boot.
+Version 2020.02.18 (Feb 17, 2020)
+Bug Fixes
+• Fixed: People who use Chrome OS and an external keyboard were finding that some messages would post twice if they used the enter button on the keyboard. It will now return to the amount of times you wanted that message sent (assuming that amount was “once”).
+Version 2020.02.11 (Feb 10, 2020)
+Bug Fixes
+• Fixed: People who use Chrome OS and an external keyboard were finding that some messages would post twice if they used the enter button on the keyboard. It will now return to the amount of times you wanted that message sent (assuming that amount was “once”).
+Version 2020.02.10 (Feb 9, 2020)
+What’s New
+• We’ve been working hard behind the scenes to make sure everything is polished, well-oiled, and running as it should be. If you notice anything to the contrary, as always, let us know!
+Version 2020.02.06 (Feb 5, 2020)
+What’s New
+• We’ve been working hard behind the scenes to make sure everything is polished, well-oiled, and running as it should be. If you notice anything to the contrary, as always, let us know!
+Version 2020.02.04 (Feb 3, 2020)
+What’s New
+• We’ve been working hard behind the scenes to make sure everything is polished, well-oiled, and running as it should be. If you notice anything to the contrary, as always, let us know!
+Version 2020.01.23 (Jan 22, 2020)
+What’s New
+• We’ve been working hard behind the scenes to make sure everything is polished, well-oiled, and running as it should be. If you notice anything to the contrary, as always, let us know!
+Version 2020.01.21 (Jan 20, 2020)
+Bug Fixes
+• Fixed: In a message from a bot, buttons and menus configured to respond to a user’s actions weren’t actually doing that. This was not the first stage in a robot uprising: it was merely a bug. And is no more.
+Version 2020.01.08 (Jan 7, 2020)
+Bug Fixes
+• Fixed: In a message from a bot, buttons and menus configured to respond to a user’s actions weren’t actually doing that. This was not the first stage in a robot uprising: it was merely a bug. And is no more.
+Version 2020.01.06 (Jan 5, 2020)
+What’s New
+• For those who love to format their messages on the move, good news, you can now get that done in a few clicks using the new formatting tool in the message field.
+Bug Fixes
+• If, by some chance, you rotated your device immediately after sending a message, a copy of that message would sometimes remain in the input field (as well as being sent). Why? Who knows! Technology is weird. But at least it’s now weird and fixed.
+Version 2019.12.11 (Dec 10, 2019)
+What’s New
+• For those who love to format their messages on the move, good news, you can now get that done in a few clicks using the new formatting tool in the message field.
+Bug Fixes
+• If, by some chance, you rotated your device immediately after sending a message, a copy of that message would sometimes remain in the input field (as well as being sent). Why? Who knows! Technology is weird. But at least it’s now weird and fixed.
+Version 2019.12.09 (Dec 8, 2019)
+Bug Fixes
+• Fixed: Sending the /rename command to rename a channel without any other text no longer causes a crash. The /crash command, meanwhile, is still not working at all, so if you were using /rename to get that effect, apologies for the inconvenience to your workflow.
+Version 2019.11.20 (Nov 19, 2019)
+Bug Fixes
+• Fixed: Sending the /rename command to rename a channel without any other text no longer causes a crash. The /crash command, meanwhile, is still not working at all, so if you were using /rename to get that effect, apologies for the inconvenience to your workflow.
+Version 2019.11.18 (Nov 17, 2019)
+What’s New
+Nothing to see here… just plenty of tinkering behind the scenes to make room for other features (and bugs, of course) to come.
+Version 2019.11.06 (Nov 5, 2019)
+What’s New
+Nothing to see here… just plenty of tinkering behind the scenes to make room for other features (and bugs, of course) to come.
+Version 2019.11.04 (Nov 3, 2019)
+Bug Fixes
+• Fixed: The “Aubergine Classic” theme was using the color scheme for the new, (perhaps future-classic) Aubergine theme. We have reverted to classic-classic.
+• Fixed: Sometimes, when we tried to show a long message in a dialog window, it would show a blank window instead, which is basically the opposite. Sometimes things are said best when one says nothing at all. This, however, was not one of those times. So we fixed it.
+Version 2019.10.23 (Oct 22, 2019)
+Bug Fixes
+• Fixed: The “Aubergine Classic” theme was using the color scheme for the new, (perhaps future-classic) Aubergine theme. We have reverted to classic-classic.
+• Fixed: Sometimes, when we tried to show a long message in a dialog window, it would show a blank window instead, which is basically the opposite. Sometimes things are said best when one says nothing at all. This, however, was not one of those times. So we fixed it.
+Version 2019.10.21 (Oct 20, 2019)
+Bug Fixes
+• We tweaked some things too small to notice or too difficult to explain. We’ll return you to your regular, more interesting types of release next time (we hope).
+Version 2019.10.11 (Oct 10, 2019)
+Bug Fixes
+• We tweaked some things too small to notice or too difficult to explain. We’ll return you to your regular, more interesting types of release next time (we hope).
+Version 2019.10.09 (Oct 8, 2019)
+What's New
+• All default sidebar themes are now also supported in dark mode — so when you shift into dark mode, whichever of our default themes you use will subtly shift to complement it.
+• In accordance with the unstoppable march of time, updates will only be available to devices running Android 5.0 (aka Lollipop) or later.
+Version 2019.09.23 (Sep 25, 2019)
+Bug Fixes
+• Fixed: In the Threads screen, after removing a reaction, it was not possible to add other reactions. Changing your mind, or your emoji, is your prerogative, and you are now once again free to indulge that.
+Version 19.09.20.0 (Sep 24, 2019)
+Bug Fixes
+• Fixed: In the Threads screen, after removing a reaction, it was not possible to add other reactions. Changing your mind, or your emoji, is your prerogative, and you are now once again free to indulge that.
+Version 19.09.10.0 (Sep 10, 2019)
+Bug Fixes
+• Fixed: Sometimes, if you checked the box in a thread to post your reply in channel as well, the reply would look like it had been sent twice in the thread… until you closed the thread and reopened it. It only ever posted once, but now it looks that way too. Apologies for the confusion.
+Version 19.08.20.0 (Aug 27, 2019)
+Bug Fixes
+• Fixed: A crash that sometimes occurred after sending a message while offline, and then coming back online no longer occurs. The app stays up, and the message is sent. Everyone wins.
+• Fixed: For those using Slack in UK English, the “Join Channel” button displayed at the bottom of a channel you had not yet joined was reading “Join %1$s”. It has been pointed out to us that this is not how the British spell “channel”, so we changed it. Awfully sorry about that.
+Version 19.08.10.0 (Aug 20, 2019)
+Bug Fixes
+• Fixed: Sometimes outgoing messages to a channel looked like they had been sent twice.
+Version 19.07.31.0 (Aug 6, 2019)
+Bug Fixes
+• We tuned up the engine and gave the interiors a thorough clean. Everything is now running smoothly again.
+Version 19.07.30.0 (Jul 30, 2019)
+Bug Fixes
+• Fixed: The buttons that appeared after @-mentioning a user in a channel (“Invite to a channel” and “Share a link”) not performing those actions, which was illogical. If you experienced this and questioned whether you'd ever pushed the button at all, it wasn't you being delusional, it was us being irrational. It is now fixed.
+Version 19.07.20.0 (Jul 16, 2019)
+We tweaked some things too small to notice or too difficult to explain. We’ll return you to your regular, more interesting types of release next time (we hope).
+Version 19.07.10.0 (Jul 2, 2019)
+Version 19.06.20.0 (Jun 18, 2019)
+Version 19.06.10.0 (Jun 5, 2019)
+Version 2019.06.03 (Jun 2, 2019)
+Version 2019.05.22 (May 21, 2019)
+Version 2019.05.20 (May 19, 2019)
+Version 2019.05.08 (May 7, 2019)
+Bug Fixes
+• Fixed: When long pressing on a message to perform an action — like marking unread, setting a reminder or sharing — some of the message actions were overlapping unattractively. They're much more attractive now.
+Version 2019.05.06 (May 5, 2019)
+What’s New
+• Support for Google Smart Lock has been added, so if you’ve enabled Google Smart Lock on your device, you can now log into Slack with one single glorious tap.
+Version 2019.04.24 (Apr 23, 2019)
+What’s New
+• Support for Google Smart Lock has been added, so if you’ve enabled Google Smart Lock on your device, you can now log into Slack with one single glorious tap.
+Version 2019.04.22 (Apr 21, 2019)
+What’s New
+• Clicking the + button at the top of your list of channels always got you to a Channel Browser (true!) but that channel browser has been improved in lots of little ways. The fact it will now indicate which channels you're a member of is but one. Click it to find the others.
+Version 2019.04.10 (Apr 9, 2019)
+What’s New
+• Clicking the + button at the top of your list of channels always got you to a Channel Browser (true!) but that channel browser has been improved in lots of little ways. The fact it will now indicate which channels you're a member of is but one. Click it to find the others.
+Version 2019.04.08 (Apr 7, 2019)
+What’s New
+• Your latest unread channels should now highlight and get sorted to the top of your sidebar faster than before. Zippy!
+Bug Fixes
+• Fixed: Externally-hosted files (like those hosted on Google Drive, for instance) were showing download button that looked great, but didn't actually work. Now it looks great, also works, and everything opens as it used to.
+Version 2019.03.27 (Mar 26, 2019)
+What’s New
+• Your latest unread channels should now highlight and get sorted to the top of your sidebar faster than before. Zippy!
+Bug Fixes
+• Fixed: Externally-hosted files (like those hosted on Google Drive, for instance) were showing download button that looked great, but didn't actually work. Now it looks great, also works, and everything opens as it used to.
+Version 2019.03.25 (Mar 24, 2019)
+What’s New
+• Dark Mode can now be switched on (or off) in the Settings menu. Yes, it’s been a long road, but there’s finally dark at the end of the tunnel. NB: This is mobile only for now, with desktop coming later — thank you for both bearing with us, and for continuing to expect more of us.
+Version 2019.03.13 (Mar 12, 2019)
+What’s New
+• Dark Mode can now be switched on (or off) in the Settings menu. Yes, it’s been a long road, but there’s finally dark at the end of the tunnel. NB: This is mobile only for now, with desktop coming later — thank you for both bearing with us, and for continuing to expect more of us.
+Version 2019.03.11 (Mar 10, 2019)
+What’s New
+• We’ve updated the background color of the app icon, to make it easier to see.
+Version 2019.02.27 (Feb 26, 2019)
+What’s New
+• We’ve updated the background color of the app icon, to make it easier to see.
+Version 2019.02.25 (Feb 24, 2019)
+What’s New
+• A small detail for the eagle-eyed: We've changed the way we number our releases. The last one was 2.76.1, this one is 19.2.1. Most people won't notice, but we wanted to make sure you knew you hadn't missed anything. Carry on.
+Bug Fixes
+• Fixed: @-mentions and block quotes were sometimes showing up in weird colors and sometimes not displaying at all. This simply wasn't cricket, so we fixed it.
+Version 2019.02.13 (Feb 12, 2019)
+What’s New
+• A small detail for the eagle-eyed: We've changed the way we number our releases. The last one was 2.76.1, this one is 19.2.1. Most people won't notice, but we wanted to make sure you knew you hadn't missed anything. Carry on.
+Bug Fixes
+• Fixed: @-mentions and block quotes were sometimes showing up in weird colors and sometimes not displaying at all. This simply wasn't cricket, so we fixed it.
+Version 2019.02.11 (Feb 10, 2019)
+Bug Fixes
+• We tuned up the engine and gave the interiors a thorough clean. Everything is now running smoothly again.
+Version 2019.01.31 (Jan 30, 2019)
+Bug Fixes
+• We tuned up the engine and gave the interiors a thorough clean. Everything is now running smoothly again.
+Version 2019.01.28 (Jan 27, 2019)
+What’s New
+• From today, you'll notice a shiny new app button that matches our new logo. You can read more about it, should you wish to, on our blog at SlackHQ.com. Change! Everyone loves it. (Having said that, nothing about Slack or how you use it has changed. Just the button.)
+Version 2019.01.14 (Jan 13, 2019)
+What’s New
+• From today, you'll notice a shiny new app button that matches our new logo. You can read more about it, should you wish to, on our blog at SlackHQ.com. Change! Everyone loves it. (Having said that, nothing about Slack or how you use it has changed. Just the button.)
+Version 2019.01.10 (Jan 9, 2019)
+What’s New
+• Fixed: Custom emojis that did not start off as perfect squares were appearing squished or stretched, and that simply wouldn't do. Our myriad apologies for this terrible state of affairs. It is now remedied.
+Version 2019.01.07 (Jan 6, 2019)
+What’s New
+• Fixed: Switching channels then very quickly tapping the message entry box sometimes meant typing wouldn't do anything. This is fixed: let your fleet fingers fly.
+Version 2018.12.12 (Dec 11, 2018)
+What’s New
+• Fixed: Switching channels then very quickly tapping the message entry box sometimes meant typing wouldn't do anything. This is fixed: let your fleet fingers fly.
+Version 2018.12.10 (Dec 9, 2018)
+What’s New
+• Need to pause notifications? Thinking of going on vacation for more than 24 hours? Good news. You can pause them beyond a single day, or until a specific date or time. And we’ve also added two new presets to our existing list: “Until tomorrow” and “Until next week”. A veritable panoply of new options for pausing notifications! Or, at the very least, "several"!
+Version 2018.11.28 (Nov 27, 2018)
+What’s New
+• Need to pause notifications? Thinking of going on vacation for more than 24 hours? Good news. You can pause them beyond a single day, or until a specific date or time. And we’ve also added two new presets to our existing list: “Until tomorrow” and “Until next week”. A veritable panoply of new options for pausing notifications! Or, at the very least, "several"!
+Version 2018.11.27 (Nov 26, 2018)
+What’s New
+• Now, after you confirm your email, you’ll see a list of your workspaces, and pick which ones you’d like to sign into. And then sign into them!
+• You can now receive notifications while using the app, so If you're catching up on a channel and you receive a DM you won't miss it (and if that doesn't sound like something you'd want, you'll find this in the notification settings menu).
+Version 2018.11.07 (Nov 6, 2018)
+What’s New
+• Now, after you confirm your email, you’ll see a list of your workspaces, and pick which ones you’d like to sign into. And then sign into them!
+• You can now receive notifications while using the app, so If you're catching up on a channel and you receive a DM you won't miss it (and if that doesn't sound like something you'd want, you'll find this in the notification settings menu).
+Version 2018.11.05 (Nov 4, 2018)
+What’s New
+• If your device is running Oreo or a more recent version of Android, you'll now find your notifications sorted into categories, giving you more control over how and when you see them.
+Version 2018.10.24 (Oct 23, 2018)
+What’s New
+• If your device is running Oreo or a more recent version of Android, you'll now find your notifications sorted into categories, giving you more control over how and when you see them.
+Version 2018.10.22 (Oct 21, 2018)
+What’s New
+• Fixed: Sometimes, when the app was unable to detect what your status was meant to be, it would crash instead. This was a bad choice on the part of the app, and, after a time-out, the app has apologized and agreed to stop doing that.
+Version 2018.10.10 (Oct 9, 2018)
+What’s New
+• Fixed: Sometimes, when the app was unable to detect what your status was meant to be, it would crash instead. This was a bad choice on the part of the app, and, after a time-out, the app has apologized and agreed to stop doing that.
+Version 2018.10.08 (Oct 7, 2018)
+What’s New
+• Fixed: After ending a Slack call, the call sometimes appeared to be ongoing in the notifications tray. It wasn't (ongoing) but the fact that it was (in the notifications tray) meant a new call couldn't be started. Apologies for this, it's all better now.
+Version 2018.09.26 (Sep 25, 2018)
+What’s New
+• Fixed: After ending a Slack call, the call sometimes appeared to be ongoing in the notifications tray. It wasn't (ongoing) but the fact that it was (in the notifications tray) meant a new call couldn't be started. Apologies for this, it's all better now.
+Version 2018.09.24 (Sep 23, 2018)
+What’s New
+• Nothing lasts forever. Now when you set your status, you can also set a time (or date) for that status to expire. No longer will people question how you're "Working remotely on Tuesday" when it's Thursday, or wonder why you've been "At the dentist" for 19 consecutive hours.
+Version 2018.09.12 (Sep 11, 2018)
+What’s New
+• Nothing lasts forever. Now when you set your status, you can also set a time (or date) for that status to expire. No longer will people question how you're "Working remotely on Tuesday" when it's Thursday, or wonder why you've been "At the dentist" for 19 consecutive hours.
+Version 2018.09.10 (Sep 9, 2018)
+What’s New
+• Message actions come to Android: It's now easier to create tasks, comment on tickets, or follow-up on things while on the move. So if you have important tools like Asana, Zendesk and Jira connected to Slack, you can now long press any message and create a follow up without needing to log into those tools. It's very good. We recommend it.
+Version 2018.08.30 (Aug 29, 2018)
+What’s New
+• Message actions come to Android: It's now easier to create tasks, comment on tickets, or follow-up on things while on the move. So if you have important tools like Asana, Zendesk and Jira connected to Slack, you can now long press any message and create a follow up without needing to log into those tools. It's very good. We recommend it.
+Version 2018.08.27 (Aug 26, 2018)
+What’s New
+• The issue of unruly App Shortcut shapes has been resolved. When you create an App shortcut, the icon will now match the shape of the other icons on your home screen, a feature, we understand, that has been much desired by a user called Ian. So Ian: this one's for you.
+Bug Fixes
+• Fixed: Trying to open an attachment that was forwarded to Slack using the special "forward to Slack" email address would crash the app. It no longer does.
+Version 2018.08.15 (Aug 14, 2018)
+What’s New
+• Threads now support files — and files support threads. Images and files can be uploaded directly to threads — you can do it by adding files as you normally would. When you comment on a file or an image, it is stored as thread reply. Just like message threads, your replies will now stay nested in a thread attached to the file.
+Version 2018.08.13 (Aug 12, 2018)
+What’s New
+• Threads now support files — and files support threads. Images and files can be uploaded directly to threads — you can do it by adding files as you normally would. When you comment on a file or an image, it is stored as thread reply. Just like message threads, your replies will now stay nested in a thread attached to the file.
+Version 2018.08.02 (Aug 1, 2018)
+What’s New
+• Threads now support files — and files support threads. Images and files can be uploaded directly to threads — you can do it by adding files as you normally would. When you comment on a file or an image, it is stored as thread reply. Just like message threads, your replies will now stay nested in a thread attached to the file.
+Version 2018.07.30 (Jul 29, 2018)
+What’s New
+• Searching in Chinese, Japanese, and Korean will now work much, much better.
+Bug Fixes
+• Fixed: A clutch of bugs causing confusion about whether a user was online or off. Now, whether you set availability by typing "/away" or through the user settings menu, your state of green-dottedness (or not) should now be immediately reflected in the app.
+Version 2018.07.18 (Jul 17, 2018)
+What’s New
+• Searching in Chinese, Japanese, and Korean will now work much, much better.
+Bug Fixes
+• Fixed: A clutch of bugs causing confusion about whether a user was online or off. Now, whether you set availability by typing "/away" or through the user settings menu, your state of green-dottedness (or not) should now be immediately reflected in the app.
+Version 2018.07.16 (Jul 15, 2018)
+What's New:
+• Fixed: This is just to say — we have fixed the "delete message" option you found next to your message that had failed to send, and which you were probably hoping would delete the message. Forgive us: it was annoying. So promising, and so nonfunctional.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.07.11 (Jul 10, 2018)
+What's New:
+• Fixed: This is just to say — we have fixed the "delete message" option you found next to your message that had failed to send, and which you were probably hoping would delete the message. Forgive us: it was annoying. So promising, and so nonfunctional.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.07.09 (Jul 8, 2018)
+What's New:
+• Fixed: Tapping the share button very rapidly over and over again could lead to a loop where the file would get shared over and over again too (until the app was force-quit, or, let's face it, rage-quit). An air of calm now pervades.
+• Fixed: The application of logic and fine engineering now mean that downloading a file containing the ‘%’ character in the filename will no longer cause a crash.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.06.20 (Jun 19, 2018)
+What's New:
+• Fixed: Tapping the share button very rapidly over and over again could lead to a loop where the file would get shared over and over again too (until the app was force-quit, or, let's face it, rage-quit). An air of calm now pervades.
+• Fixed: The application of logic and fine engineering now mean that downloading a file containing the ‘%’ character in the filename will no longer cause a crash.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.06.18 (Jun 17, 2018)
+What’s New
+• Fixed: A bug in the tubes was preventing some users from being able to initiate Slack calls in the Android app. Sorry about this — the pipes have been cleaned and the lines cleared, your call will now go through once more.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.06.06 (Jun 5, 2018)
+What’s New
+• Fixed: A bug in the tubes was preventing some users from being able to initiate Slack calls in the Android app. Sorry about this — the pipes have been cleaned and the lines cleared, your call will now go through once more.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.06.04 (Jun 3, 2018)
+What’s New
+• If you're having trouble with notifications, a new tool can help troubleshoot and fix them. It's under Settings -> Notifications -> Troubleshoot Notifications. Even the act of opening it might do the trick.
+Bug Fixes
+• Fixed: If you rotated your device at the same time as trying to select a user in the Quick Switcher, the app could crash. We've turned this around.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.05.23 (May 22, 2018)
+What’s New
+• If you're having trouble with notifications, a new tool can help troubleshoot and fix them. It's under Settings -> Notifications -> Troubleshoot Notifications. Even the act of opening it might do the trick.
+Bug Fixes
+• Fixed: If you rotated your device at the same time as trying to select a user in the Quick Switcher, the app could crash. We've turned this around.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.05.21 (May 20, 2018)
+Bug Fixes
+• Fixed: The app can now be used when a device's only internet connection is over bluetooth or ethernet, unlike before, when it could only be used when a wifi or cellular connection was available. This is better.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.05.09 (May 8, 2018)
+Bug Fixes
+• Fixed: The app can now be used when a device's only internet connection is over bluetooth or ethernet, unlike before, when it could only be used when a wifi or cellular connection was available. This is better.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.05.07 (May 6, 2018)
+Bug Fixes
+• Fixed: Looking for group conversations through the Quick Switcher was getting sluggish, and less good. It now filters faster.
+• Fixed: Autocompletion was broken for some users until they refreshed their cache. Apologies to those who preferred it broken: it was actually a bug.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.26 (Apr 25, 2018)
+Bug Fixes
+• Fixed: Looking for group conversations through the Quick Switcher was getting sluggish, and less good. It now filters faster.
+• Fixed: Autocompletion was broken for some users until they refreshed their cache. Apologies to those who preferred it broken: it was actually a bug.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.25 (Apr 24, 2018)
+Bug Fixes
+• Fixed: Looking for group conversations through the Quick Switcher was getting sluggish, and less good. It now filters faster.
+• Fixed: Autocompletion was broken for some users until they refreshed their cache. Apologies to those who preferred it broken: it was actually a bug.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.23 (Apr 22, 2018)
+• Fixed: Changing your status on desktop or in another version of the app wasn't always reflected in all the right places on Android, but now is.
+• Fixed: An edge case in which editing a previous message after beginning a reply to a thread led to the text box for your new reply losing the space buffer on its left side. Yes, it was a marginal error. But now, a fixed one.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.13 (Apr 12, 2018)
+• Fixed: Changing your status on desktop or in another version of the app wasn't always reflected in all the right places on Android, but now is.
+• Fixed: An edge case in which editing a previous message after beginning a reply to a thread led to the text box for your new reply losing the space buffer on its left side. Yes, it was a marginal error. But now, a fixed one.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.12 (Apr 11, 2018)
+• Fixed: Changing your status on desktop or in another version of the app wasn't always reflected in all the right places on Android, but now is.
+• Fixed: An edge case in which editing a previous message after beginning a reply to a thread led to the text box for your new reply losing the space buffer on its left side. Yes, it was a marginal error. But now, a fixed one.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.11 (Apr 10, 2018)
+• Fixed: Changing your status on desktop or in another version of the app wasn't always reflected in all the right places on Android, but now is.
+• Fixed: An edge case in which editing a previous message after beginning a reply to a thread led to the text box for your new reply losing the space buffer on its left side. Yes, it was a marginal error. But now, a fixed one.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.04.09 (Apr 8, 2018)
+Bug Fixes
+• Fixed: After migrating their user data to a new phone, some users noticed notifications not working. Or rather, didn't, because they weren't. They now are.
+• Fixed: File uploads smaller than 1 MB were displaying their size in scientific notation. Knowing your file is 9.320000e+02B may be interesting, but isn't so useful. We now round up.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.03.30 (Mar 29, 2018)
+Bug Fixes
+• Fixed: After migrating their user data to a new phone, some users noticed notifications not working. Or rather, didn't, because they weren't. They now are.
+• Fixed: File uploads smaller than 1 MB were displaying their size in scientific notation. Knowing your file is 9.320000e+02B may be interesting, but isn't so useful. We now round up.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.03.26 (Mar 25, 2018)
+Bug Fixes
+• Fixed: A notification for a new message in a thread will now direct you to the message, as it should.
+• Fixed: Sometimes, when scrolling through search results, users would find a crash. This turned out not to be something anyone was looking for, so we fixed it.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.03.14 (Mar 13, 2018)
+Bug Fixes
+• Fixed: A notification for a new message in a thread will now direct you to the message, as it should.
+• Fixed: Sometimes, when scrolling through search results, users would find a crash. This turned out not to be something anyone was looking for, so we fixed it.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.03.12 (Mar 11, 2018)
+• Fixed: We’ve updated the status of the status feature to “functioning.” Its previous status was “refusing to save your status.”
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.02.28 (Feb 27, 2018)
+Slack 2.52 Release Notes:
+• Fixed: We’ve updated the status of the status feature to “functioning.” Its previous status was “refusing to save your status.”
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.02.26 (Feb 25, 2018)
+Slack 2.52 Release Notes:
+• Fixed: The autocompletion menu, which was not appearing when typing @ on a new line, is now appearing when typed on a new line.
+• Fixed: The search icon (the magnifying glass) was extremely hard to find in certain color themes, which was somewhat ironic. Now it will change colors to be more visible, depending on your color scheme, and thus be more findable, as is apt.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.02.14 (Feb 13, 2018)
+Slack 2.52 Release Notes:
+• Fixed: The autocompletion menu, which was not appearing when typing @ on a new line, is now appearing when typed on a new line.
+• Fixed: The search icon (the magnifying glass) was extremely hard to find in certain color themes, which was somewhat ironic. Now it will change colors to be more visible, depending on your color scheme, and thus be more findable, as is apt.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.02.12 (Feb 11, 2018)
+Slack 2.51 Release Notes:
+• Fixed: Toggling quickly between “away” and “available,” was sometimes leaving you with the wrong status. Basically, you were in, you were out, you were in, out; in, out: it shook us all about. We did some careful coding, and we’ve turned ourselves around. And that’s what it’s all about.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.01.31 (Jan 30, 2018)
+Slack 2.51 Release Notes:
+• Fixed: Toggling quickly between “away” and “available,” was sometimes leaving you with the wrong status. Basically, you were in, you were out, you were in, out; in, out: it shook us all about. We did some careful coding, and we’ve turned ourselves around. And that’s what it’s all about.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.01.29 (Jan 28, 2018)
+Slack 2.50 Release Notes:
+• Fixed: Where users couldn’t sign in with a longer org name of more than 21 characters, they now can, because after all, what’s in a name? (Spoiler: it is “sometimes more than 21 characters”)
+• Fixed: Tapping on a bot or app icon with no network connection could cause the app to crash. Contrary to appearance, this was not the first sign of the robot uprising, just a bug.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2018.01.18 (Jan 17, 2018)
+Slack 2.50 Release Notes:
+• Fixed: Where users couldn’t sign in with a longer org name of more than 21 characters, they now can, because after all, what’s in a name? (Spoiler: it is “sometimes more than 21 characters”)
+• Fixed: Tapping on a bot or app icon with no network connection could cause the app to crash. Contrary to appearance, this was not the first sign of the robot uprising, just a bug.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.12.13 (Dec 12, 2017)
+Slack 2.49 Release Notes:
+Highlights:
+• Several obscure crashes, including one that could occur when the app encountered a link to a message also in Slack. This was a step of humility too far. So we fixed it.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.11.30 (Nov 29, 2017)
+Slack 2.48 Release Notes:
+Highlights:
+• Group conversations were not sending notifications as often as they should. Now they correctly respect the notification settings you’ve set, and should therefore get lost less often.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.11.27 (Nov 26, 2017)
+Slack 2.47.1 Release Notes:
+Highlights:
+• Slack now officially, and fully, supports Japanese. Along with the already available French, German, Spanish, and, of course, English (of the US variety).
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.11.16 (Nov 15, 2017)
+Slack 2.47.1 Release Notes:
+Highlights:
+• Slack now officially, and fully, supports Japanese. Along with the already available French, German, Spanish, and, of course, English (of the US variety).
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.11.10 (Nov 9, 2017)
+Slack 2.47.0 Release Notes:
+Highlights:
+• Forgot to select an autocomplete result when mentioning someone? We’ll try to select the right person for you automatically. Less tapping, more working.
+• We added a new, simpler way to sign into all workspaces associated with an email address.
+• Handful of trifling bug fixes too small for the human eye.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.11.06 (Nov 5, 2017)
+Slack 2.46.0 Release Notes:
+Highlights:
+• On devices with Android Oreo, our launcher icon is now adaptive. Which means that it is either a circle or, apparently, a “squircle” depending on the device you’re using.
+• Fixed an issue where we would display empty attachments for some App Integrations. The attachments were not empty. Now, the displays aren’t either.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.10.26 (Oct 25, 2017)
+Slack 2.46.0 Release Notes:
+Highlights:
+• On devices with Android Oreo, our launcher icon is now adaptive. Which means that it is either a circle or, apparently, a “squircle” depending on the device you’re using.
+• Fixed an issue where we would display empty attachments for some App Integrations. The attachments were not empty. Now, the displays aren’t either.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.10.23 (Oct 22, 2017)
+Slack 2.45.0 Release Notes:
+Highlights:
+• Fixed: The Unread Badge for a Direct Message was sometimes sticking around, even if you’d read it. Now what’s read remains read, until there’s something new to read.
+• Fixed: When team preference for allowing anyone to use @here and @channel is switched off, we no longer, logically, allow the user to send messages or comments including @here.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.10.12 (Oct 11, 2017)
+Slack 2.45.0 Release Notes:
+Highlights:
+• Fixed: The Unread Badge for a Direct Message was sometimes sticking around, even if you’d read it. Now what’s read remains read, until there’s something new to read.
+• Fixed: When team preference for allowing anyone to use @here and @channel is switched off, we no longer, logically, allow the user to send messages or comments including @here.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.10.06 (Oct 5, 2017)
+Slack 2.44.0 Release Notes:
+Highlights:
+• When adding channel topics or purpose, you can now use any standard message formatting, be it bold, italic, or links or usernames.
+• When you got two messages, you weren’t receiving a notification sound for the second one. You now will.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.09.28 (Sep 27, 2017)
+Slack 2.44.0 Release Notes:
+Highlights:
+• When adding channel topics or purpose, you can now use any standard message formatting, be it bold, italic, or links or usernames.
+• When you got two messages, you weren’t receiving a notification sound for the second one. You now will.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.09.26 (Sep 25, 2017)
+Slack 2.43.0 Release Notes:
+Highlights:
+• Slack is now fully available in French, Spanish and German, down to the very last emoji.
+• Also, we added support for a brand new way of working with external companies from within Slack.
+• AND a whole new method of handling name tagging in order to handle the exciting world of challenges brought by the two things above. Phew.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.09.25 (Sep 24, 2017)
+Slack 2.43.0 Release Notes:
+Highlights:
+• Slack is now fully available in French, Spanish and German, down to the very last emoji.
+• Also, we added support for a brand new way of working with external companies from within Slack.
+• AND a whole new method of handling name tagging in order to handle the exciting world of challenges brought by the two things above. Phew.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.09.11 (Sep 10, 2017)
+Slack 2.43.0 Release Notes:
+Highlights:
+• Slack is now fully available in French, Spanish and German, down to the very last emoji.
+• Also, we added support for a brand new way of working with external companies from within Slack.
+• AND a whole new method of handling name tagging in order to handle the exciting world of challenges brought by the two things above. Phew.
+Full Release Notes: https://slack.com/release-notes/android
+Version 2017.09.10 (Sep 9, 2017)
+Slack 2.43.0 Release Notes:
+Highlights:
+• Fixed: Newly-created group conversations mysteriously missing from the Drawer will now appear there once again.
+• Fixed: User Groups (like @engineers, @designers, or whatever groups you’ve created) which were not showing up in the message input autocomplete, now are.
+• Fixed: Some people running Android O were experiencing a crash when starting up. No more.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.09.07 (Sep 6, 2017)
+Slack 2.42.0 Release Notes:
+Highlights:
+• Previously, you couldn’t see your own email when viewing your profile. You now can. If, for some reason, that is something you want to do.
+• “Oh no I pinned that by mistake!” Good news: You can now unpin a message by long-pressing and selecting that function from the list.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.31 (Aug 30, 2017)
+Slack 2.42.0 Release Notes:
+Highlights:
+• Previously, you couldn’t see your own email when viewing your profile. You now can. If, for some reason, that is something you want to do.
+• “Oh no I pinned that by mistake!” Good news: You can now unpin a message by long-pressing and selecting that function from the list.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.30 (Aug 29, 2017)
+Slack 2.41.0 Release Notes:
+Highlights:
+• New: In side channel details, you’ll find a natty new Edit button allowing you to easily change the topic or purpose of the channel, or, if you have the ability to change the Channel name itself.
+• Fixed: Tapping on a magic link no longer runs the risk of causing a crash - if nothing else, it wasn’t the kind of magic we intended.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.28 (Aug 27, 2017)
+Slack 2.41.0 Release Notes:
+Highlights:
+• New: In side channel details, you’ll find a natty new Edit button allowing you to easily change the topic or purpose of the channel, or, if you have the ability to change the Channel name itself.
+• Fixed: Tapping on a magic link no longer runs the risk of causing a crash - if nothing else, it wasn’t the kind of magic we intended.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.18 (Aug 17, 2017)
+Slack 2.41.0 Release Notes:
+Highlights:
+• New: In side channel details, you’ll find a natty new Edit button allowing you to easily change the topic or purpose of the channel, or, if you have the ability to change the Channel name itself.
+• Fixed: Tapping on a magic link no longer runs the risk of causing a crash - if nothing else, it wasn’t the kind of magic we intended.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.17 (Aug 16, 2017)
+Slack 2.40.0 Release Notes:
+Highlights:
+• Fixed a bug where animated custom status emoji, which should be paused, were animating. Moving forward there will be zero tolerance for the undead, at least in this context.
+• Handful of crash fixes. More than a spoonful, less than a bucket full, all good.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.14 (Aug 13, 2017)
+Slack 2.40.0 Release Notes:
+Highlights:
+• Fixed a bug where animated custom status emoji, which should be paused, were animating. Moving forward there will be zero tolerance for the undead, at least in this context.
+• Handful of crash fixes. More than a spoonful, less than a bucket full, all good.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.08.03 (Aug 2, 2017)
+Slack 2.40.0 Release Notes:
+Highlights:
+• Fixed a bug where animated custom status emoji, which should be paused, were animating. Moving forward there will be zero tolerance for the undead, at least in this context.
+• Handful of crash fixes. More than a spoonful, less than a bucket full, all good.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.07.31 (Jul 30, 2017)
+Slack 2.39.0 Release Notes:
+Highlights:
+• Fixed: We were not respecting the 'plain text only' emoji style. Henceforth, we promise to always respect your right to an emoji-free experience. :pinky_swear:
+• Fixed: The ginormous emoji displayed on some devices when setting status was, remarkably, unintentional, and has been rectified.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.07.19 (Jul 18, 2017)
+Slack 2.39.0 Release Notes:
+Highlights:
+• Fixed: We were not respecting the 'plain text only' emoji style. Henceforth, we promise to always respect your right to an emoji-free experience. :pinky_swear:
+• Fixed: The ginormous emoji displayed on some devices when setting status was, remarkably, unintentional, and has been rectified.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.07.17 (Jul 16, 2017)
+Slack 2.38.0 Release Notes:
+Highlights:
+• The app icon, you may notice, looks different. Because it is.
+• An all-new shiny notification center to quickly see and adjust all your notification preferences, channel by channel, and conversation by conversation. They’re your notifications, they should be juuuuuuust the way you want them.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.07.07 (Jul 6, 2017)
+Slack 2.38.0 Release Notes:
+Highlights:
+• The app icon, you may notice, looks different. Because it is.
+• An all-new shiny notification center to quickly see and adjust all your notification preferences, channel by channel, and conversation by conversation. They’re your notifications, they should be juuuuuuust the way you want them.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.07.05 (Jul 4, 2017)
+Slack 2.37.0 Release Notes:
+Highlights:
+• Small but tasteful design tweaks to the Share To list.
+• Fixed: Using the Quick Switcher in low connectivity situations should no longer cause a crash. Believe us, it was never the intended behavior to begin with.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.06.21 (Jun 20, 2017)
+Slack 2.37.0 Release Notes:
+Highlights:
+• Small but tasteful design tweaks to the Share To list.
+• Fixed: Using the Quick Switcher in low connectivity situations should no longer cause a crash. Believe us, it was never the intended behavior to begin with.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.06.19 (Jun 18, 2017)
+Slack 2.36.0 Release Notes:
+Highlights:
+• Improvements to the way we connect and load data across the app to make everything a little zippier.
+• Fixed: An issue where the All Threads view would fail to load for some users, becoming, in effect, a No Threads view. It is now truer to its name.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.06.07 (Jun 6, 2017)
+Slack 2.36.0 Release Notes:
+Highlights:
+• Improvements to the way we connect and load data across the app to make everything a little zippier.
+• Fixed: An issue where the All Threads view would fail to load for some users, becoming, in effect, a No Threads view. It is now truer to its name.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.06.05 (Jun 4, 2017)
+Slack 2.35.0 Release Notes:
+Highlights:
+• There’s now an option to Send me a test notification under Settings > Push Notifications. This is useful if you like to look like you get lots of notifications — but mainly helps us better debug push notification issues.
+• Fixed: The quote icon on file comments no longer distorts the text, as it occasionally did.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.05.24 (May 23, 2017)
+Slack 2.35.0 Release Notes:
+Highlights:
+• There’s now an option to Send me a test notification under Settings > Push Notifications. This is useful if you like to look like you get lots of notifications — but mainly helps us better debug push notification issues.
+• Fixed: The quote icon on file comments no longer distorts the text, as it occasionally did.
+Full Release Notes: https://slack.com/apps/android/release-notes
+Version 2017.05.22 (May 21, 2017)
+Slack 2.34.0 Release Notes:
+Highlights:
+• Fixed an issue related to changing the colors of the sidebar theme while the app was active. In related news: we keep forgetting to tell people they can change the sidebar theme if they want. This is now also, as of very recently, rectified.
+• Fixed a bug for certain @command(s) missing from the autocomplete list. The big ones. They’re back: Please use responsibly.
+Full Release Notes: https://slack-files.com/T12KS1G65-F5AB6AJUT-0adf3cfe2f
+Version 2017.05.10 (May 9, 2017)
+Slack 2.34.0 Release Notes:
+Highlights:
+• Fixed an issue related to changing the colors of the sidebar theme while the app was active. In related news: we keep forgetting to tell people they can change the sidebar theme if they want. This is now also, as of very recently, rectified.
+• Fixed a bug for certain @command(s) missing from the autocomplete list. The big ones. They’re back: Please use responsibly.
+Full Release Notes: https://slack-files.com/T12KS1G65-F5AB6AJUT-86a01a70be
+Version 2017.05.08 (May 7, 2017)
+Slack 2.33.0 Release Notes:
+Highlights:
+• A new and improved message input that helps you quickly attach photos and files, access slash commands, and @-mention teammates. Less taps > more taps
+• Updated: Users of DirectShare will find that the way we’ve tweaked our score algorithm means that the feature now plays nicer with other apps.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F53SGFKCJ-69c04859ce
+Version 2017.04.26 (Apr 25, 2017)
+Slack 2.33.0 Release Notes:
+Highlights:
+• A new and improved message input that helps you quickly attach photos and files, access slash commands, and @-mention teammates. Less taps > more taps
+• Updated: Users of DirectShare will find that the way we’ve tweaked our score algorithm means that the feature now plays nicer with other apps.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F53SGFKCJ-69c04859ce
+Version 2017.04.24 (Apr 23, 2017)
+Slack 2.32.0 Release Notes:
+Highlights:
+• Long pressing on a URL in a message now craftily, and automatically, copies the URL to the clipboard. As you might logically expect.
+• Fixed: A perplexing inability to delete bot messages in a Direct Message has been flipped on its’ head.
+• Fixed: A weird bug where there would be multiple New Message markers in a single channel.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4XSTHEP9-9cd8f66800
+Version 2017.04.12 (Apr 11, 2017)
+Slack 2.32.0 Release Notes:
+Highlights:
+• Long pressing on a URL in a message now craftily, and automatically, copies the URL to the clipboard. As you might logically expect.
+• Fixed: A perplexing inability to delete bot messages in a Direct Message has been flipped on its’ head.
+• Fixed: A weird bug where there would be multiple New Message markers in a single channel.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4XSTHEP9-9cd8f66800
+Version 2017.04.10 (Apr 9, 2017)
+Slack 2.31.0 Release Notes:
+Highlights:
+• You can now share a message or a file from one channel to another. Which is nice.
+• Some of the slash commands you’re used to using from Slack (like /away, /dm etc) are now supported inside Threads.
+• Fixed: You’re no longer shunted into the cold vacuum of the browser to view search results when we can just as easily display them in-app.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4QF4S11S-151bf6a9fe
+Version 2017.03.30 (Mar 29, 2017)
+Slack 2.31.0 Release Notes:
+Highlights:
+• You can now share a message or a file from one channel to another. Which is nice.
+• Some of the slash commands you’re used to using from Slack (like /away, /dm etc) are now supported inside Threads.
+• Fixed: You’re no longer shunted into the cold vacuum of the browser to view search results when we can just as easily display them in-app.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4QF4S11S-151bf6a9fe
+Version 2017.03.27 (Mar 26, 2017)
+Slack 2.30.0 Release Notes:
+Highlights:
+• Fixed: Tapping on certain message search results sometimes caused the app to crash. This no longer happens, as we’re almost certain that wasn’t what you were looking for.
+• Fixed: A crash some users were seeing when viewing a Channel when a message was deleted by another team member.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4HJ1R17T-35ff9b3eab
+Version 2017.03.16 (Mar 15, 2017)
+Slack 2.30.0 Release Notes:
+Highlights:
+• Fixed: Tapping on certain message search results sometimes caused the app to crash. This no longer happens, as we’re almost certain that wasn’t what you were looking for.
+• Fixed: A crash some users were seeing when viewing a Channel when a message was deleted by another team member.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4HJ1R17T-35ff9b3eab
+Version 2017.03.14 (Mar 13, 2017)
+Slack 2.29.0 Release Notes:
+Highlights:
+• Fixed: Sometimes the wrong team members were displayed when you were attempting to view someone’s direct reports through their profile. We apologize for any confusion, embarrassment or inadvertent organizational restructure resulting from this bug.
+• Fixed an issue where the Enter key wouldn’t send the message when using a Chromebook. It had one job. It now performs it.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4B8FTH36-a6e2201312
+Version 2017.03.07 (Mar 6, 2017)
+Slack 2.29.0 Release Notes:
+Highlights:
+• Fixed: Sometimes the wrong team members were displayed when you were attempting to view someone’s direct reports through their profile. We apologize for any confusion, embarrassment or inadvertent organizational restructure resulting from this bug.
+• Fixed an issue where the Enter key wouldn’t send the message when using a Chromebook. It had one job. It now performs it.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4B8FTH36-a6e2201312
+Version 2017.03.03 (Mar 2, 2017)
+Slack 2.29.0 Release Notes:
+Highlights:
+• Fixed: Sometimes the wrong team members were displayed when you were attempting to view someone’s direct reports through their profile. We apologize for any confusion, embarrassment or inadvertent organizational restructure resulting from this bug.
+• Fixed an issue where the Enter key wouldn’t send the message when using a Chromebook. It had one job. It now performs it.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4B8FTH36-a6e2201312
+Version 2017.03.02 (Mar 1, 2017)
+Slack 2.29.0 Release Notes:
+Highlights:
+• Fixed: Sometimes the wrong team members were displayed when you were attempting to view someone’s direct reports through their profile. We apologize for any confusion, embarrassment or inadvertent organizational restructure resulting from this bug.
+• Fixed an issue where the Enter key wouldn’t send the message when using a Chromebook. It had one job. It now performs it.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F4B8FTH36-a6e2201312
+Version 2017.02.27 (Feb 26, 2017)
+Slack 2.28.0 Release Notes:
+Highlights:
+• A beautifully crafted new and improved Channels Browser.
+• We’ve given a tweak and polish to the menu you get when long pressing on a message.
+• New App Profiles. When users tap on the avatar of an app (or bot) they will now see useful information about that app. Because apps are people too. That’s not true. But, like people, it is useful to know who they are and what they do.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F42E159V2-72de43af4b
+Version 2017.02.10 (Feb 9, 2017)
+Slack 2.28.0 Release Notes:
+Highlights:
+• A beautifully crafted new and improved Channels Browser.
+• We’ve given a tweak and polish to the menu you get when long pressing on a message.
+• New App Profiles. When users tap on the avatar of an app (or bot) they will now see useful information about that app. Because apps are people too. That’s not true. But, like people, it is useful to know who they are and what they do.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F42E159V2-72de43af4b
+Version 2017.02.07 (Feb 6, 2017)
+Slack 2.27.0 Release Notes:
+Highlights:
+• Support for our new Threads. Did we mention we have threads now? We have threads now. Tap on a message to start a thread, or on an existing one to join it. Threads!
+• In addition, we now support inserting GIFs from Google GBoard, because freedom of GIF is a constitutional right. Possibly. We’re not constitutional experts. It just sounded good.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3VEVE813-c5ea2e62b3
+Version 2017.01.25 (Jan 24, 2017)
+Slack 2.27.0 Release Notes:
+Highlights:
+• Support for our new Threads. Did we mention we have threads now? We have threads now. Tap on a message to start a thread, or on an existing one to join it. Threads!
+• In addition, we now support inserting GIFs from Google GBoard, because freedom of GIF is a constitutional right. Possibly. We’re not constitutional experts. It just sounded good.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3VEVE813-c5ea2e62b3
+Version 2017.01.23 (Jan 22, 2017)
+Slack 2.26.1 Release Notes:
+Highlights:
+• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+Version 2017.01.16 (Jan 15, 2017)
+Slack 2.26.1 Release Notes:
+Highlights:
+• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+Version 2017.01.13 (Jan 12, 2017)
+Slack 2.26.0 Release Notes:
+Highlights:
+• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+Version 2017.01.11 (Jan 10, 2017)
+Slack 2.26.0 Release Notes:
+Highlights:
+• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+Version 2017.01.09 (Jan 8, 2017)
+Slack 2.25.0 Release Notes:
+Highlights:
+• Long pressing an emoji in the emoji keyboard now helpfully shows its name, so you never have to search for :man_in_business_suit_levitating: by scrolling again.
+• Fixed: Logically, we now require a channel or member when sharing a file to Slack.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3G3DPGL9-c49d2fe47d
+Version 2016.12.21 (Dec 20, 2016)
+Slack 2.25.0 Release Notes:
+Highlights:
+• Long pressing an emoji in the emoji keyboard now helpfully shows its name, so you never have to search for :man_in_business_suit_levitating: by scrolling again.
+• Fixed: Logically, we now require a channel or member when sharing a file to Slack.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3G3DPGL9-c49d2fe47d
+Version 2016.12.19 (Dec 18, 2016)
+Slack 2.24.0 Release Notes:
+Highlights:
+• New Activity Feed to quickly view all your recent mentions & emoji reactions visit the "Activity" link in your overflow menu. Because emoji are people too. (Except the ones that aren’t, but for our purposes right now, they are.)
+• With Android Direct Share you can now pick from recent Slack conversations and share things. Sharing is nice.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3BKWD8PQ-e892a6093b
+Version 2016.12.08 (Dec 7, 2016)
+Slack 2.24.0 Release Notes:
+Highlights:
+• New Activity Feed to quickly view all your recent mentions & emoji reactions visit the "Activity" link in your overflow menu. Because emoji are people too. (Except the ones that aren’t, but for our purposes right now, they are.)
+• With Android Direct Share you can now pick from recent Slack conversations and share things. Sharing is nice.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F3BKWD8PQ-e892a6093b
+Version 2016.12.05 (Dec 4, 2016)
+Slack 2.23.0 Release Notes:
+Highlights:
+• Long-press on an emoji in the emoji picker to be presented with skin tone selection
+• And you can also select default emoji skin tone under Settings > Advanced
+• Design tweaks to the main menu in top right, to make it feel even righter.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F35DLL5TM-fbe46e6e2d
+Version 2016.11.23 (Nov 22, 2016)
+Slack 2.23.0 Release Notes:
+Highlights:
+• Long-press on an emoji in the emoji picker to be presented with skin tone selection
+• And you can also select default emoji skin tone under Settings > Advanced
+• Design tweaks to the main menu in top right, to make it feel even righter.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F35DLL5TM-fbe46e6e2d
+Version 2016.11.21 (Nov 20, 2016)
+Slack 2.22.0 Release Notes:
+Highlights:
+• Added: The ability to Copy text for ephemeral messages. Admittedly this makes them less ephemeral, but more useful.
+• You’ll find the search screen both looking and feeling better.
+• Fixed: an issue where Slack would display an incorrect connection status for some users. Sorry about that.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2ZGG57B4-66c1a4eed3
+Version 2016.11.10 (Nov 9, 2016)
+Slack 2.22.0 Release Notes:
+Highlights:
+• Added: The ability to Copy text for ephemeral messages. Admittedly this makes them less ephemeral, but more useful.
+• You’ll find the search screen both looking and feeling better.
+• Fixed: an issue where Slack would display an incorrect connection status for some users. Sorry about that.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2ZGG57B4-66c1a4eed3
+Version 2016.11.09 (Nov 8, 2016)
+Slack 2.21.0 Release Notes:
+Highlights:
+• You’ll find that search has been redesigned to look better and surface search modifiers like in:channel and from:person, which are very useful (once you know they’re there!)
+• The details of the messages on the Message Details screen are now more detailed (and also look better).
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2TJZHJ84-7810908fb9
+Version 2016.11.07 (Nov 6, 2016)
+Slack 2.21.0 Release Notes:
+Highlights:
+• You’ll find that search has been redesigned to look better and surface search modifiers like in:channel and from:person, which are very useful (once you know they’re there!)
+• The details of the messages on the Message Details screen are now more detailed (and also look better).
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2TJZHJ84-7810908fb9
+Version 2016.10.26 (Oct 25, 2016)
+Slack 2.21.0 Release Notes:
+Highlights:
+• You’ll find that search has been redesigned to look better and surface search modifiers like in:channel and from:person, which are very useful (once you know they’re there!)
+• The details of the messages on the Message Details screen are now more detailed (and also look better).
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2TJZHJ84-7810908fb9
+Version 2016.10.24 (Oct 23, 2016)
+Slack 2.20.0 Release Notes:
+Highlights:
+• A new look and feel to the way we show the dates and divisions between your messages — so now you always know what day it is. Or was.
+• Fixed: A crash that could occur when tapping on a notification for a recently created channel no longer does. No more “Now you see it, now you don’t”, because you do.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2N4RFGDN-dbecc0b30d
+Version 2016.10.13 (Oct 12, 2016)
+Slack 2.20.0 Release Notes:
+Highlights:
+• A new look and feel to the way we show the dates and divisions between your messages — so now you always know what day it is. Or was.
+• Fixed: A crash that could occur when tapping on a notification for a recently created channel no longer does. No more “Now you see it, now you don’t”, because you do.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2N4RFGDN-dbecc0b30d
+Version 2016.10.10 (Oct 9, 2016)
+Slack 2.19.0 Release Notes:
+Highlights:
+• The experience of editing a message is much improved, and now supports autocomplete for @mentions and channels.
+• A clearer, cleaner, altogether more attractive experience of editing your profile awaits you on the Edit Profile screen (unsurprisingly)
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2G6ZKT5M-5ff92d4722
+Version 2016.09.29 (Sep 28, 2016)
+Slack 2.19.0 Release Notes:
+Highlights:
+• The experience of editing a message is much improved, and now supports autocomplete for @mentions and channels.
+• A clearer, cleaner, altogether more attractive experience of editing your profile awaits you on the Edit Profile screen (unsurprisingly)
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2G6ZKT5M-5ff92d4722
+Version 2016.09.26 (Sep 25, 2016)
+Slack 2.18.0 Release Notes:
+Highlights:
+• For the advancement of humanity and the reduction of befuddlement, the long press reaction list now shows the name of the emoji as well as the number of team members that used it.
+• Fixed: The contentious colon previously appended when tapping on an autocompleted mention has now been removed.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2AU60C23-4b4e6860f4
+Version 2016.09.15 (Sep 14, 2016)
+Slack 2.18.0 Release Notes:
+Highlights:
+• For the advancement of humanity and the reduction of befuddlement, the long press reaction list now shows the name of the emoji as well as the number of team members that used it.
+• Fixed: The contentious colon previously appended when tapping on an autocompleted mention has now been removed.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F2AU60C23-4b4e6860f4
+Version 2016.09.12 (Sep 11, 2016)
+Slack 2.17.0 Release Notes:
+Highlights:
+• The act of adding team members to a private channel will now prompt you to either invite them to the current conversation (where they’ll see the channel history) or create a new private channel (where they won’t)(because there won’t be any).
+• On large tablets the side drawer will now remain open, for easier rummaging.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F266URYUE-00f88cd849
+Version 2016.08.31 (Aug 30, 2016)
+Slack 2.17.0 Release Notes:
+Highlights:
+• The act of adding team members to a private channel will now prompt you to either invite them to the current conversation (where they’ll see the channel history) or create a new private channel (where they won’t)(because there won’t be any).
+• On large tablets the side drawer will now remain open, for easier rummaging.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F266URYUE-00f88cd849
+Version 2016.08.29 (Aug 28, 2016)
+Slack 2.16.0 Release Notes:
+Highlights:
+• A delightful new ability to preview a channel rather than just joining it means an end to awkward entrances.
+• Fixed: Switching Channels while uploading a file no longer clears out any text you had entered.
+• Fixed: A nefarious inability to share a private file has been quelled. Share away.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F21JG7Y8P-eeab93b2fd
+Version 2016.08.23 (Aug 22, 2016)
+Slack 2.16.0 Release Notes:
+Highlights:
+• A delightful new ability to preview a channel rather than just joining it means an end to awkward entrances.
+• Fixed: Switching Channels while uploading a file no longer clears out any text you had entered.
+• Fixed: A nefarious inability to share a private file has been quelled. Share away.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F21JG7Y8P-eeab93b2fd
+Version 2016.08.18 (Aug 17, 2016)
+Slack 2.16.0 Release Notes:
+Highlights:
+• A delightful new ability to preview a channel rather than just joining it means an end to awkward entrances.
+• Fixed: Switching Channels while uploading a file no longer clears out any text you had entered.
+• Fixed: A nefarious inability to share a private file has been quelled. Share away.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F21JG7Y8P-eeab93b2fd
+Version 2016.08.15 (Aug 14, 2016)
+Slack 2.15.0 Release Notes:
+Highlights:
+• Long pressing on a message and choosing Remind me will… remind you about that message after the interval you choose. Which is handy.
+• Slackbot messages that only you can see have been updated to let you know when only you can see them.
+• Fixed: Messages containing @ or # when they didn’t refer to a username or channel would sometimes vanish without a trace. They’re back.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F1VCY0PKQ-0661decf44
+Version 2016.08.02 (Aug 1, 2016)
+Slack 2.15.0 Release Notes:
+Highlights:
+• Long pressing on a message and choosing Remind me will… remind you about that message after the interval you choose. Which is handy.
+• Slackbot messages that only you can see have been updated to let you know when only you can see them.
+• Fixed: Messages containing @ or # when they didn’t refer to a username or channel would sometimes vanish without a trace. They’re back.
+Full Release Notes:
+https://slack-files.com/T12KS1G65-F1VCY0PKQ-0661decf44
+Version 2016.07.29 (Jul 28, 2016)
+Slack 2.14.0 Release Notes:
+Highlights:
+• Many much-desired additions to Calls: including Bluetooth support, symbols to indicate who is actively speaking, added support for receiving emoji while on a call, and, best of course: Added support for /call slash command. Type it, then talk. Easy peasy.
+• The User is Typing setting will now show you when a team member is currently… wait for it… typing.
+Full Release Notes:
+https://slack-files.com/T024BE7LD-F1R6JCV5Y-5d175a52fc
+Version 2016.07.15 (Jul 24, 2016)
+Slack 2.14.0 Release Notes:
+Highlights:
+• Many much-desired additions to Calls: including Bluetooth support, symbols to indicate who is actively speaking, added support for receiving emoji while on a call, and, best of course: Added support for /call slash command. Type it, then talk. Easy peasy.
+• The User is Typing setting will now show you when a team member is currently… wait for it… typing.
+Full Release Notes:
+https://slack-files.com/T024BE7LD-F1R6JCV5Y-5d175a52fc
+Version 2016.07.12 (Jul 11, 2016)
+Slack 2.13.0 Release Notes:
+Highlights:
+• Updated the way notifications are handled and displayed, to make them better.
+• Support for Android Wear (Reply to notifications and view previous messages to a notification by swiping right)
+• Fixed: Receiving a push notification would sometimes cause you to appear active. But it was we that were active in that moment, rather than you. So we changed it.
+Full Release Notes:
+https://slack-files.com/T024BE7LD-F1K2VDAS1-3ad4161078
+Version 2016.06.27 (Jun 26, 2016)
+Slack 2.13.0 Release Notes:
+Highlights:
+• Updated the way notifications are handled and displayed, to make them better.
+• Support for Android Wear (Reply to notifications and view previous messages to a notification by swiping right)
+• Fixed: Receiving a push notification would sometimes cause you to appear active. But it was we that were active in that moment, rather than you. So we changed it.
+Full Release Notes:
+https://slack-files.com/T024BE7LD-F1K2VDAS1-3ad4161078
+Version 2016.06.24 (Jun 23, 2016)
+Slack 2.13.0 Release Notes:
+Highlights:
+• Updated the way notifications are handled and displayed, to make them better.
+• Support for Android Wear (Reply to notifications and view previous messages to a notification by swiping right)
+• Fixed: Receiving a push notification would sometimes cause you to appear active. But it was we that were active in that moment, rather than you. So we changed it.
+Full Release Notes:
+https://slack-files.com/T024BE7LD-F1K2VDAS1-3ad4161078
+Version 2016.06.22 (Jun 21, 2016)
+Slack 2.12.0 Release Notes:
+A quick and easy way to see which of your starred channels have unread messages, in-app browser support, the ability to invite team members to ongoing calls, a whole clutch of bothersome bugs fixed, and more.
+https://slack-files.com/T024BE7LD-F1DQXL410-a9520bc28b to read all the details.
+Version 2015.06.05 (Jun 4, 2015)
+Please see our blog post on Slack 2.0! http://goo.gl/gHkNcN
+2.0.1:
+-Archived groups that were previously starred should no longer show up in channels list.
+-Fixed a crash that would happen if you had certain characters within your highlight words. As in letters. Not like “Batman”.
+-Updated a few application assets here and there.
+-Fixed a whole slew of other crashes that were happening, sometimes, and for various reasons. Sorry! Those (those specific ones, anyway) will not happen any more.
+Version 1.8.2 (Apr 6, 2015)
+Version 1.8.0 (Mar 1, 2015)
+Version 1.7.0 (Feb 3, 2015)
+Version 1.6.16 (Jan 7, 2015)
+Version 1.6.14 (Dec 17, 2014)
+Version 1.6.9 (Nov 18, 2014)
+Version 1.6.2 (Oct 19, 2014)
+Version 1.5.94 (Oct 11, 2014)
+Version 1.5.91 (Sep 9, 2014)
+Version 1.5.89 (Sep 2, 2014)
+Version 1.5.87 (Sep 1, 2014)
+Version 1.5.84 (Aug 8, 2014)
+Version 1.5.80 (Jul 9, 2014)
+Version 1.5.76 (Jun 17, 2014)
+Version 1.5.75 (Jun 4, 2014)
+Version 1.5.74 (May 7, 2014)
+Version 1.5.73 (Apr 28, 2014)
+Version 1.5.72 (Apr 11, 2014)
+Version 1.5.71 (Apr 10, 2014)
+Version 1.5.70 (Mar 19, 2014)
+Version 1.5.69 (Mar 14, 2014)
+Version 1.5.67 (Mar 1, 2014)
+Version 1.5.66 (Feb 26, 2014)
+Version 1.5.65 (Feb 4, 2014)
+Version 1.5.62 (Jan 21, 2014)
+Version 1.5.34 (Dec 22, 2013)
+Version 1.5.33 (Dec 20, 2013)
+Version 1.5.11 (Nov 14, 2013)
+Version 1.4.42 (Oct 21, 2013)
+Version 1.4.37 (Oct 9, 2013)
+Version 1.4.16 (Aug 16, 2013)
+Version 1.4.15 (Aug 13, 2013)
+Version 1.3.18 (Aug 5, 2013)
+Version 1.3.7 (Jul 26, 2013)

@@ -1,0 +1,51 @@
+Issues related to Registration Issues
+New revised patch note solved
+
+
+0.79 What’s New• Support for Google Smart Lock has been added, so if you’ve enabled Google Smart Lock on your device, you can now log into Slack with one single glorious tap.
+
+
+0.78 What’s New• If your device is running Oreo or a more recent version of Android, you'll now find your notifications sorted into categories, giving you more control over how and when you see them.
+
+
+0.77 What’s New• Now, after you confirm your email, you’ll see a list of your workspaces, and pick which ones you’d like to sign into. And then sign into them!• You can now receive notifications while using the app, so If you're catching up on a channel and you receive a DM you won't miss it (and if that doesn't sound like something you'd want, you'll find this in the notification settings menu).
+
+
+Issues related to Notification Issues
+New revised patch note solved
+
+
+0.88 What’s New• Need to pause notifications? Thinking of going on vacation for more than 24 hours? Good news. You can pause them beyond a single day, or until a specific date or time. And we’ve also added two new presets to our existing list: “Until tomorrow” and “Until next week”. A veritable panoply of new options for pausing notifications! Or, at the very least, "several"!
+
+
+0.85 Slack 2.35.0 Release Notes:Highlights:• There’s now an option to Send me a test notification under Settings > Push Notifications. This is useful if you like to look like you get lots of notifications — but mainly helps us better debug push notification issues.• Fixed: The quote icon on file comments no longer distorts the text, as it occasionally did.Full Release Notes: https://slack.com/apps/android/release-notes
+
+
+0.85 What’s New• If your device is running Oreo or a more recent version of Android, you'll now find your notifications sorted into categories, giving you more control over how and when you see them.
+
+
+Issues related to Slack Desktop/Mobile App Issues
+New revised patch note solved
+
+
+0.88 Slack 2.26.1 Release Notes:Highlights:• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.Full Release Notes:https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+
+
+0.87 Slack 2.26.0 Release Notes:Highlights:• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.Full Release Notes:https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+
+
+0.85 Slack 2.36.0 Release Notes:Highlights:• Improvements to the way we connect and load data across the app to make everything a little zippier.• Fixed: An issue where the All Threads view would fail to load for some users, becoming, in effect, a No Threads view. It is now truer to its name.Full Release Notes: https://slack.com/apps/android/release-notes
+
+
+Issues related to Interface Issues
+New revised patch note solved
+
+
+0.82 What’s New• If your device is running Oreo or a more recent version of Android, you'll now find your notifications sorted into categories, giving you more control over how and when you see them.
+
+
+0.81 Slack 2.21.0 Release Notes:Highlights:• You’ll find that search has been redesigned to look better and surface search modifiers like in:channel and from:person, which are very useful (once you know they’re there!)• The details of the messages on the Message Details screen are now more detailed (and also look better).Full Release Notes:https://slack-files.com/T12KS1G65-F2TJZHJ84-7810908fb9
+
+
+0.81 Slack 2.26.0 Release Notes:Highlights:• To match the desktop app, when you use @everyone or @channel, we’ll now pop up a reminder of how many people you’ll be alerting (and how many time zones they might be in). Because one small act of courtesy can save a whole lot of awkwardness later on.Full Release Notes:https://slack-files.com/T12KS1G65-F3PUXQ08N-528ebdc96b
+
