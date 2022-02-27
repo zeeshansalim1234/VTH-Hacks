@@ -9,7 +9,7 @@
 
 •App Annie API: https://www.programmableweb.com/api/app-annie-rest-api
 
-## What is Appanalytics ?
+## What is Applytics ?
 
 Applytics is an open-source web application bridging the gap between Users and Developers. Applytics is responsible for automatically matching Patch notes with the Bug reports reported by the Users. Often User finds it difficult to solve an issue and at times their issues remain unsolved. Developers on the other hand spend approximately about 42% of their time trying to solve bugs. Our goal is to notify the developers of the issues that are important but unsolved. Furthermore, we wish to apply this app as a tool to the pre-existing software Jira which is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
 
@@ -54,7 +54,7 @@ From our research, it has been clear that users reviews include bug reports, fea
 ## ML model integration
 - The reviews gathered from the Google-Scrapper API were clustered into groups of major bugs detected. This was done using LDA Topic Modelling.
 - These Major Bugs are mapped to reviews using SPECTRE.
-- SPECTRE model in Appanalytics is built using allenai-specter model with SentenceTransformers.
+- SPECTRE model in Applytics is built using allenai-specter model with SentenceTransformers.
 - Patch Notes and Negative Reviews are generated using the App Annie API and then passed these notes to the Spectre model to create embeddings.
 - Proceeding to perform Cosine-Similarity to map patches to reviews and display results on Flask.
   
