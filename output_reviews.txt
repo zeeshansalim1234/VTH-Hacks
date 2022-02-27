@@ -3,51 +3,81 @@ def res():
     df = pd.read_csv ('app_reviews_slack.csv')
 
     count_1,count_2,count_3,count_4 = 0,0,0,0
+    # count_1v2,count_2v2,count_3v2,count_4v2 = 0,0,0,0
 
     idx1,idx2,idx3,idx4 = 0,0,0,0
 
     reg_dict = {}
+    reg_dictv2 = {}
     int_dict = {}
+    int_dictv2 = {}
     app_dict = {}
+    app_dictv2 = {}
     not_dict = {}
+    not_dictv2 = {}
 
 
     for i in df['RegistrationIssues']:
-        if i>0.7:
+        if i>0.7 and idx1<=8:
             my_formatter = "{0:.2f}"
             reg_dict[df['processed_review'][count_1]] = str(my_formatter.format(i*100))+"%"
             idx1+=1
+
+        elif idx1>8 and i>0.7:
+            my_formatter = "{0:.2f}"
+            reg_dictv2[df['processed_review'][count_1]] = str(my_formatter.format(i*100))+"%"
+            idx1+=1
+
         count_1+=1
-        if idx1 ==8:
+
+
+        if idx1 ==16:
             break
     # count_2 = 0
     for i in df['Notification Issues']:
-        if i>0.7:
+        if i>0.7 and idx2<=8:
             my_formatter = "{0:.2f}"
             not_dict[df['processed_review'][count_2]] = str(my_formatter.format(i*100))+"%"
             idx2+=1
+        elif idx2>8 and i>0.7:
+            my_formatter = "{0:.2f}"
+            not_dictv2[df['processed_review'][count_2]] = str(my_formatter.format(i*100))+"%"
+            idx2+=1
+
         count_2+=1
-        if idx2 == 8:
+        if idx2 == 16:
             break
 
     # count_3 = 0
     for i in df['Slack Desktop/Mobile App Issues']:
-        if i>0.7:
+        if i>0.7 and idx3<=8:
             
             my_formatter = "{0:.2f}"
             app_dict[df['processed_review'][count_3]] = str(my_formatter.format(i*100))+"%"
             idx3+=1
+
+        elif idx3>8 and i>0.7:
+            my_formatter = "{0:.2f}"
+            app_dictv2[df['processed_review'][count_3]] = str(my_formatter.format(i*100))+"%"
+            idx3+=1
+
         count_3+=1
-        if idx3 == 8:
+        if idx3 == 16:
             break
 
     # count_4 = 0
     for i in df['Interface Issues']:
-        if i>0.6:
+        if i>0.7 and idx4<=8:
             my_formatter = "{0:.2f}"
             int_dict[df['processed_review'][count_4]] = str(my_formatter.format(i*100))+"%"
-            print(int_dict[df['processed_review'][count_4]])
+            # print(int_dict[df['processed_review'][count_4]])
             idx4+=1
+        elif idx4>8 and i>0.7:
+            my_formatter = "{0:.2f}"
+            int_dictv2[df['processed_review'][count_4]] = str(my_formatter.format(i*100))+"%"
+            print(int_dictv2[df['processed_review'][count_4]])
+            idx4+=1
+
         count_4+=1
         if idx4 == 8:
             break
@@ -55,4 +85,5 @@ def res():
 
 
 
-    return render_template('resultDeveloper.html',reg_dict=reg_dict,int_dict=int_dict,not_dict=not_dict,app_dict=app_dict)
+    return render_template('resultDeveloper.html',reg_dict=reg_dict,int_dict=int_dict,not_dict=not_dict,app_dict=app_dict,
+        reg_dictv2 = reg_dictv2, int_dictv2 = int_dictv2, app_dictv2 = app_dictv2,not_dictv2=not_dictv2)
