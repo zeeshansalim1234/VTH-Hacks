@@ -27,11 +27,6 @@ From our research, it has been clear that users reviews include bug reports, fea
 
 ![image](https://user-images.githubusercontent.com/72998580/155878994-7bee243f-1fc8-4735-805a-568bcd79bdb2.png)
 ![image](https://user-images.githubusercontent.com/72998580/155879001-8d60fbdc-8b0b-4f25-a641-439717fb6cf3.png)
-![image](https://user-images.githubusercontent.com/72998580/155879011-30cbcb6a-3314-48f8-8008-ad5bdb1e39af.png)
-![image](https://user-images.githubusercontent.com/72998580/155879016-b7497397-a8a5-46e8-bd73-0c7115ba49d7.png)
-![image](https://user-images.githubusercontent.com/72998580/155879352-acdcbf46-5ed6-441a-b9b3-fc88bb7be8e0.png)
-
-
 
 
 ## Technologies Used
