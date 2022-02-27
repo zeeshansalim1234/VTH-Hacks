@@ -40,10 +40,8 @@ From our research, it has been clear that users reviews include bug reports, fea
 
 
 ## Machine Learning Models used :
-
-  •Bert-Extractive-Summarizer (Generates summary)
-
-  •Specter (Generates Embeddings)
+  •LDA modelling (Unsupervised Learning)
+  •Specter Allen/AI (Generates Embeddings)
   
 ## API's used :
 
