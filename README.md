@@ -23,6 +23,13 @@ VTHacks IX presented us with the opportunity to work on a real-life problem that
 Several Apps on App Stores, such as Google Play or the Apple Store, allow users to provide constructive or positive feedback on apps by posting their personalized reviews.
 From our research, it has been clear that users reviews include bug reports, feature requests, that can assist app developers to accomplish software maintenance and evolution tasks. According to several statistics, it has been proven that several important bugs and technical issues with the advancing technology are often not noticed by the developers. This is when we decided to create a web application that helps solve this cause.
 
+## Interface 
+
+![image](https://user-images.githubusercontent.com/72998580/155878994-7bee243f-1fc8-4735-805a-568bcd79bdb2.png)
+![image](https://user-images.githubusercontent.com/72998580/155879001-8d60fbdc-8b0b-4f25-a641-439717fb6cf3.png)
+![image](https://user-images.githubusercontent.com/72998580/155879011-30cbcb6a-3314-48f8-8008-ad5bdb1e39af.png)
+![image](https://user-images.githubusercontent.com/72998580/155879016-b7497397-a8a5-46e8-bd73-0c7115ba49d7.png)
+
 
 ## Technologies Used
 
