@@ -4,10 +4,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-3670A0?style=for-the-badge&logo=flask&logoColor=ffdd54)
 
-#### API Blueprint: 
-•Google-Scrapper API : https://github.com/facundoolano/google-play-scraper
-
-•App Annie API: https://www.programmableweb.com/api/app-annie-rest-api
 
 ## What is Applytics ?
 
@@ -23,6 +19,42 @@ VTHacks IX presented us with the opportunity to work on a real-life problem that
 Several Apps on App Stores, such as Google Play or the Apple Store, allow users to provide constructive or positive feedback on apps by posting their personalized reviews.
 From our research, it has been clear that users reviews include bug reports, feature requests, that can assist app developers to accomplish software maintenance and evolution tasks. According to several statistics, it has been proven that several important bugs and technical issues with the advancing technology are often not noticed by the developers. This is when we decided to create a web application that helps solve this cause.
 
+## Plans for the Future:
+-We wish to apply this app as a tool to the pre-existing software Jira which is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile    project management. 
+
+
+## Technologies Used:
+
+| Stack     | Technologies Used                    |
+|-----------|--------------------------------------|
+| Front-End | React , HTML, JavaScript, CSS        |
+| Back-End  | Python, Flask                        |
+| Database  | MySQL                                | 
+| Machine Learning | JupyterNotebook               |
+
+
+## Machine Learning :
+
+| Technique           | Purpose                                        |
+|---------------------|------------------------------------------------|
+| LDA Topic Modelling | Clustering the Data (Unsupervised Learning)    |
+| Specter Model       | Generating Tensor Embeddings for textual data  |
+
+
+## API's used :
+
+
+| API           | Purpose                                       |
+|---------------------|-----------------------------------------|
+| Google_play_scraper | Scrapping App Reviews from Play Store   |
+| App Annie           | Scrapping App Patch/Release Notes       |
+
+
+## Project Technologies Flowcharts
+
+![first](https://user-images.githubusercontent.com/72998580/155883978-25f92a35-610a-4e4d-84dd-fb22f2f1318a.PNG)
+![second](https://user-images.githubusercontent.com/72998580/155883545-59c8c457-e894-4764-98e2-c25ee2aa4c36.PNG)
+
 ## Interface 
 
 ![image](https://user-images.githubusercontent.com/72998580/155882015-385be487-e1a7-4005-9311-20961883cfc7.png)
@@ -30,31 +62,7 @@ From our research, it has been clear that users reviews include bug reports, fea
 ![image](https://user-images.githubusercontent.com/72998580/155882215-ed344b5f-92f8-4177-9af6-c94ad9062daa.png)
 ![image](https://user-images.githubusercontent.com/72998580/155881825-adcf9e02-d962-4515-a060-0a662e9d63cd.png)
 ![image](https://user-images.githubusercontent.com/72998580/155881970-86d2b66a-fa43-45c1-a6fd-de39966e1822.png)
-![first](https://user-images.githubusercontent.com/72998580/155883492-0e9ea50a-c8d6-42d5-a358-d9c9ea342e25.PNG)
-![second](https://user-images.githubusercontent.com/72998580/155883545-59c8c457-e894-4764-98e2-c25ee2aa4c36.PNG)
 
-
-
-## Technologies Used
-
-| Stack     | Technologies Used                    |
-|-----------|--------------------------------------|
-| Front-End | HTML, JavaScript, CSS                |
-| Back-End  | Python, Flask                        |
-| Database  | MySQL                                | 
-| Machine Learning | JupyterNotebook               |
-
-
-## Machine Learning Models used :
-  •LDA modelling (Machine Learning)
-  
-  •Specter Allen/AI (Generates Embeddings)
-  
-## API's used :
-
-  • Google_play_scraper
-  
-  • App Annie
   
 ## ML model integration
 - The reviews gathered from the Google-Scrapper API were clustered into groups of major bugs detected. This was done using LDA Topic Modelling.
