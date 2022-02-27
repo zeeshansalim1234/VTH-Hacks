@@ -27,6 +27,8 @@ From our research, it has been clear that users reviews include bug reports, fea
 
 ![image](https://user-images.githubusercontent.com/72998580/155878994-7bee243f-1fc8-4735-805a-568bcd79bdb2.png)
 ![image](https://user-images.githubusercontent.com/72998580/155879001-8d60fbdc-8b0b-4f25-a641-439717fb6cf3.png)
+![image](https://user-images.githubusercontent.com/72998580/155881582-53988630-4427-46f2-952e-56823c2045ab.png)
+
 
 
 ## Technologies Used
@@ -40,7 +42,8 @@ From our research, it has been clear that users reviews include bug reports, fea
 
 
 ## Machine Learning Models used :
-  •LDA modelling (Unsupervised Learning)
+  •LDA modelling (Machine Learning)
+  
   •Specter Allen/AI (Generates Embeddings)
   
 ## API's used :
